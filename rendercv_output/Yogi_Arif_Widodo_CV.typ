@@ -85,7 +85,7 @@
 
 = Yogi Arif Widodo
 
-  #headline([Software Engineer | Specialize Android])
+  #headline([Software Engineer | Specializing in Android])
 
 #connections(
   [Samarinda, Indonesia],
@@ -98,7 +98,7 @@
 
 == Summary
 
-Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebuilt a 20-yr Construction Building Tokyo Japanese legacy app and scaled teams from 2 to 11. Optimized DBs from 15m to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
+Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
 
 == Founder experience
 
@@ -173,9 +173,9 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
 
   ],
   main-column-second-row: [
-    - Built cross-platform attendance app for Japanese and Indonesian firms.
+    - Built a cross-platform attendance app for Japanese and Indonesian firms.
 
-    - Code reviewed by team lead.
+    - Ensured high code quality standards through rigorous peer and team lead reviews.
 
     - Integrated Google Maps API for tracking on iOS\/Android.
 
@@ -192,9 +192,11 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
 
   ],
   main-column-second-row: [
-    - Developed HR Apps & Improved UI and ChatGPT as Assistant
+    - Developed HR applications and improved user interfaces.
 
-    - Resolved QA bugs quickly, Iterated features via user feedback
+    - Leveraged AI tools like ChatGPT to accelerate the development and debugging cycles.
+
+    - Resolved QA bugs quickly and iterated on features based on user feedback.
 
   ],
 )
@@ -211,7 +213,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
   main-column-second-row: [
     - Developed #link("https://play.google.com/store/apps/details?id=com.pestisida.simpes")[pesticide] info app
 
-    - UI\/UX Enhanced for Old User Experience and API integration.
+    - Enhanced UI\/UX for legacy systems and integrated external APIs.
 
   ],
 )
@@ -228,11 +230,11 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
 
   ],
   main-column-second-row: [
-    - Rebuild old desktop apps \"Construction Building Tokyo Japan\" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japanese name on every column thats i got result response time from 15 minutes to seconds.
+    - Rebuilt a 20-year-old desktop application into a modern web platform, utilizing over 200 Figma designs and comprehensive flowcharts. Optimized complex MySQL and Oracle 12c queries across databases featuring Japanese column names, drastically reducing response times from 15 minutes to seconds.
 
-    - Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
+    - Collaborated with two N2-certified Japanese translators and one English translator to localize system flows and UI copy.
 
-    - Developed systems multiple global country; expanded team from 2 to 11 members.
+    - Developed systems for clients across multiple countries and scaled the engineering team from 2 to 11 members.
 
     - Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery.
 
@@ -253,7 +255,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
   main-column-second-row: [
     - #link("https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing")[Led a project for SMK and university students, earned certifications.]
 
-    - Found SMK students needed algorithm knowledge, explained using Android Studio.
+    - Identified a need for foundational algorithm knowledge among SMK students and provided hands-on instruction using Android Studio.
 
   ],
 )
@@ -268,7 +270,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
 
   ],
   main-column-second-row: [
-    - Developing a native Android Groceries app thats meet requirement with Java and i Combine with Kotlin for demonstrate Kotlin is more concise and can combine with Java in Single code base Android Projects.
+    - Developed a native Android groceries app using Java and Kotlin, demonstrating Kotlin's conciseness and seamless interoperability within a single codebase.
 
   ],
 )
@@ -287,11 +289,11 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
   main-column-second-row: [
     - Founded SCODEID, a tech brand focused on delivering custom IT solutions.
 
-    - Successfully completed over 10 freelance projects for multiple global client.
+    - Successfully completed over 10 freelance projects for multiple global clients.
 
     - #link("https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing")[First Earning Upwork].
 
-    - Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA)
+    - Technical SDK Consultancy (IN), 10+ Multi-Industry Projects (ID)
 
   ],
 )
@@ -308,18 +310,18 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
 
   ],
   main-column-second-row: [
-    - Network setup Marine Tower & maintenance, routers, access points, IT support
+    - Performed network setup and maintenance for Marine Tower, including routers, access points, and general IT support.
 
-    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Handle Jetty CCTV System, Ubiquity, MikroTik, Cisco]
+    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment]
 
   ],
 )
 
 == Skills
 
-#strong[Languages:] English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
+#strong[Languages:] English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
 
-#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, BloC, Getx, Riverpod, Domain-Driven Design (DDD Patern). OpenAI API, Vertex AI
+#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building UI with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. Additional technical assessments are available on my portfolio, demonstrating expertise in Kotlin, Flutter (Provider, BLoC, GetX, Riverpod), Domain-Driven Design (DDD) patterns, OpenAI API, and Vertex AI.
 
 == Certifications
 
@@ -445,7 +447,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
 
 #education-entry(
   [
-    #strong[Politeknik Negeri Samarinda], A.Md.Kom in Technic Informatic -- Samarinda, Indonesia
+    #strong[Politeknik Negeri Samarinda], A.Md.Kom in Informatics Engineering -- Samarinda, Indonesia
 
   ],
   [
@@ -455,7 +457,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
   main-column-second-row: [
     - GPA: 3.91\/4.00 #link("https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link")[View Transcript]
 
-    - 21 Top Graduates of 2020
+    - Recognized as one of the top 21 graduates in the class of 2020
 
     - #link("https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing")[International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)]
 
@@ -466,7 +468,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
 
 #education-entry(
   [
-    #strong[Smk Negeri 2 Penajam Paser Utara],  in Computer and Network Engineering
+    #strong[SMK Negeri 2 Penajam Paser Utara],  in Computer and Network Engineering
 
   ],
   [
@@ -476,7 +478,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebu
   main-column-second-row: [
     #summary[During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks.]
 
-    - #link("https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing")[Certificate Competency on Networking Engineer]
+    - #link("https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing")[Certificate of Competency in Network Engineering]
 
   ],
 )

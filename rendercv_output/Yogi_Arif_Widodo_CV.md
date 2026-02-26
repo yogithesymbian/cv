@@ -8,7 +8,7 @@
 
 
 # Summary
-Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebuilt a 20-yr Construction Building Tokyo Japanese legacy app and scaled teams from 2 to 11. Optimized DBs from 15m to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
+Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
 
 # Founder experience
 ## **Founder & Software Engineer**, Yocatetin Data Inteligensia -- Indonesia
@@ -53,9 +53,9 @@ Architected and deployed 100% paperless systems for a massive maritime Port Busi
 
 May 2022 – Sept 2022
 
-- Built cross-platform attendance app for Japanese and Indonesian firms.
+- Built a cross-platform attendance app for Japanese and Indonesian firms.
 
-- Code reviewed by team lead.
+- Ensured high code quality standards through rigorous peer and team lead reviews.
 
 - Integrated Google Maps API for tracking on iOS/Android.
 
@@ -65,9 +65,11 @@ May 2022 – Sept 2022
 
 Aug 2022 – Sept 2022
 
-- Developed HR Apps & Improved UI and ChatGPT as Assistant
+- Developed HR applications and improved user interfaces.
 
-- Resolved QA bugs quickly, Iterated features via user feedback
+- Leveraged AI tools like ChatGPT to accelerate the development and debugging cycles.
+
+- Resolved QA bugs quickly and iterated on features based on user feedback.
 
 
 
@@ -77,7 +79,7 @@ Aug 2022 – Aug 2022
 
 - Developed [pesticide](https://play.google.com/store/apps/details?id=com.pestisida.simpes) info app
 
-- UI/UX Enhanced for Old User Experience and API integration.
+- Enhanced UI/UX for legacy systems and integrated external APIs.
 
 
 
@@ -86,11 +88,11 @@ Aug 2022 – Aug 2022
 
 Dec 2020 – May 2022
 
-- Rebuild old desktop apps "Construction Building Tokyo Japan" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japanese name on every column thats i got result response time from 15 minutes to seconds.
+- Rebuilt a 20-year-old desktop application into a modern web platform, utilizing over 200 Figma designs and comprehensive flowcharts. Optimized complex MySQL and Oracle 12c queries across databases featuring Japanese column names, drastically reducing response times from 15 minutes to seconds.
 
-- Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
+- Collaborated with two N2-certified Japanese translators and one English translator to localize system flows and UI copy.
 
-- Developed systems multiple global country; expanded team from 2 to 11 members.
+- Developed systems for clients across multiple countries and scaled the engineering team from 2 to 11 members.
 
 - Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery.
 
@@ -103,7 +105,7 @@ Nov 2019 – Nov 2019
 
 - [Led a project for SMK and university students, earned certifications.](https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing)
 
-- Found SMK students needed algorithm knowledge, explained using Android Studio.
+- Identified a need for foundational algorithm knowledge among SMK students and provided hands-on instruction using Android Studio.
 
 
 
@@ -111,7 +113,7 @@ Nov 2019 – Nov 2019
 
 July 2019 – Sept 2019
 
-- Developing a native Android Groceries app thats meet requirement with Java and i Combine with Kotlin for demonstrate Kotlin is more concise and can combine with Java in Single code base Android Projects.
+- Developed a native Android groceries app using Java and Kotlin, demonstrating Kotlin's conciseness and seamless interoperability within a single codebase.
 
 
 
@@ -122,11 +124,11 @@ Mar 2017 – Jan 2026
 
 - Founded SCODEID, a tech brand focused on delivering custom IT solutions.
 
-- Successfully completed over 10 freelance projects for multiple global client.
+- Successfully completed over 10 freelance projects for multiple global clients.
 
 - [First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing).
 
-- Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA)
+- Technical SDK Consultancy (IN), 10+ Multi-Industry Projects (ID)
 
 
 
@@ -135,16 +137,16 @@ Mar 2017 – Jan 2026
 
 Jan 2016 – Apr 2016
 
-- Network setup Marine Tower & maintenance, routers, access points, IT support
+- Performed network setup and maintenance for Marine Tower, including routers, access points, and general IT support.
 
-- [Handle Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
+- [Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
 
 
 
 # Skills
-**Languages:** English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
+**Languages:** English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
 
-**Technical Assessment:** [News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, BloC, Getx, Riverpod, Domain-Driven Design (DDD Patern). OpenAI API, Vertex AI
+**Technical Assessment:** [News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building UI with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. Additional technical assessments are available on my portfolio, demonstrating expertise in Kotlin, Flutter (Provider, BLoC, GetX, Riverpod), Domain-Driven Design (DDD) patterns, OpenAI API, and Vertex AI.
 
 # Certifications
 ## ****
@@ -215,11 +217,11 @@ Aug 2019
 
 
 # Education
-## **Politeknik Negeri Samarinda**, A.Md.Kom in Technic Informatic -- Samarinda, IndonesiaNov 2017 – Nov 2020
+## **Politeknik Negeri Samarinda**, A.Md.Kom in Informatics Engineering -- Samarinda, IndonesiaNov 2017 – Nov 2020
 
 - GPA: 3.91/4.00 [View Transcript](https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link)
 
-- 21 Top Graduates of 2020
+- Recognized as one of the top 21 graduates in the class of 2020
 
 - [International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)](https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing)
 
@@ -227,10 +229,10 @@ Aug 2019
 
 
 
-## **Smk Negeri 2 Penajam Paser Utara**,  in Computer and Network EngineeringJan 2014 – Jan 2017
+## **SMK Negeri 2 Penajam Paser Utara**,  in Computer and Network EngineeringJan 2014 – Jan 2017
 
 During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks.
 
-- [Certificate Competency on Networking Engineer](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing)
+- [Certificate of Competency in Network Engineering](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing)
 
 
