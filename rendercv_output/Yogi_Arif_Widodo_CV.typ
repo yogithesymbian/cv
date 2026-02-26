@@ -98,7 +98,7 @@
 
 == Summary
 
-Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN, and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
+Result-driven Software Engineer with 9 years of exp digitalizing industries in Japan, AU, PL, IN, and ID. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
 
 == Experience
 
@@ -154,7 +154,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN, and ID. 
 
     - 100\% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100\% alignment with client needs.
 
-    - Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term growth contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management.
+    - Led the end-to-end engineering and strategic rollout of 3 critical real-time monitoring platforms (Land Route, River Route, Visitor Management), securing 17+ long-term contracts and maintaining a 100\% project acceptance rate across global tenants like Pertamina and Schlumberger.
 
   ],
 )
@@ -190,7 +190,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN, and ID. 
   main-column-second-row: [
     - Developed HR applications and improved user interfaces.
 
-    - Leveraged AI tools like ChatGPT to accelerate the development and debugging cycles.
+    - Accelerated software development and debugging lifecycles by strategically utilizing AI developer tools (such as ChatGPT) as a coding assistant, significantly increasing overall engineering efficiency and reducing bug resolution time.
 
     - Resolved QA bugs quickly and iterated on features based on user feedback.
 
@@ -226,7 +226,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN, and ID. 
   main-column-second-row: [
     - Rebuilt a 20-year-old desktop application into a modern web platform, utilizing over 200 Figma designs and comprehensive flowcharts. Optimized complex MySQL and Oracle 12c queries across databases featuring Japanese column names, drastically reducing response times from 15 minutes to seconds.
 
-    - Collaborated with two N2-certified Japanese translators and one English translator to localize system flows and UI copy.
+    - Collaborated with two N2-certified Japanese translators and one English translator to build and integrate multilingual support into the system.
 
     - Developed systems for clients across multiple countries and scaled the engineering team from 2 to 11 members.
 
