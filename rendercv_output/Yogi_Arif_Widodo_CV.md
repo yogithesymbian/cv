@@ -41,11 +41,11 @@ July 2022 – Oct 2025
 
 100% paperless operation for a massive client base.
 
-- Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management.
-
 - High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback.
 
 - 100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100% alignment with client needs.
+
+- Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term 'growth' contracts initiate by client since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management.
 
 
 
