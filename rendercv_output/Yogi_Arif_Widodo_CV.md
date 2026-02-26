@@ -8,7 +8,7 @@
 
 
 # Summary
-Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebuilt a 20-yr Construction Building Tokyo Japanese legacy app and scaled teams from 2 to 11. Optimized DBs from 15m to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management
+Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebuilt a 20-yr Construction Building Tokyo Japanese legacy app and scaled teams from 2 to 11. Optimized DBs from 15m to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
 
 # Founder experience
 ## **Founder & Software Engineer**, Yocatetin Data Inteligensia -- Indonesia
@@ -34,7 +34,7 @@ Nov 2023 – Aug 2025
 
 
 
-# Freelance Experience
+# Freelance experience
 ## **Full-Stack Software Engineer (Contract)**, PT Sarana Abadi Lestari (SAL) -- Indonesia
 
 July 2022 – Oct 2025
@@ -65,7 +65,7 @@ May 2022 – Sept 2022
 
 Aug 2022 – Sept 2022
 
-- Improved UI with Figma and ChatGPT as Assistant
+- Developed HR Apps & Improved UI and ChatGPT as Assistant
 
 - Resolved QA bugs quickly, Iterated features via user feedback
 
@@ -77,7 +77,7 @@ Aug 2022 – Aug 2022
 
 - Developed [pesticide](https://play.google.com/store/apps/details?id=com.pestisida.simpes) info app
 
-- focusing on UI/UX and API integration.
+- UI/UX Enhanced for Old User Experience and API integration.
 
 
 
@@ -229,7 +229,7 @@ Aug 2019
 
 ## **Smk Negeri 2 Penajam Paser Utara**,  in Computer and Network EngineeringJan 2014 – Jan 2017
 
-During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks. I also explored programming with Pascal and HTML. In my free time, I taught myself VB.NET, going beyond the standard school curriculum.
+During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks.
 
 - [Certificate Competency on Networking Engineer](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing)
 
