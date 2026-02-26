@@ -15,7 +15,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 Feb 2026 – present
 
-- Autonomous Operations & Commitment
+- Autonomous International Operations & Commitment
 
 - Full-Cycle Ownership
 

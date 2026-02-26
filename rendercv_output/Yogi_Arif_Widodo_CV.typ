@@ -121,7 +121,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    - Autonomous Operations & Commitment
+    - Autonomous International Operations & Commitment
 
     - Full-Cycle Ownership
 
