@@ -23,7 +23,7 @@ Feb 2026 – present
 
 
 
-# Experience
+# Career experience
 ## **Frontend Developer**, Samatech Surabaya -- Surabaya (Base Camp on Samarinda)
 
 Nov 2023 – Aug 2025
@@ -90,11 +90,13 @@ Dec 2020 – May 2022
 
 - Co-founded tech startup; Chief Technology Officer; Head of Mobile Development; led 5+ projects.
 
-- Developed systems multiple global country; expanded team to 11.
+- Developed systems multiple global country; expanded team from 2 to 11 members.
 
 - Improved 21-years-old systems, reduced Oracle query time to 1-15 sec.
 
-- Notable Projects: Tokyo Construction (JPN), Australia Payment Gateway (Auspost), Poland Gallery.
+- Rebuild old desktop app that's already running more than 20 years app into Modern Website and There is had 200+ screen design. Using multiple database connection (ISO, GHG, JIS) MySQL and Oracle 12C and Optimized query response time from 15 minutes to seconds. Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
+
+- Notable Projects: Construction Building Tokyo Japan, Australia Payment Gateway Auspost, Poland Gallery.
 
 
 
@@ -142,15 +144,6 @@ Jan 2016 – Apr 2016
 - Network setup Marine Tower & maintenance, routers, access points, IT support
 
 - [PKL/Prakerin, Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
-
-
-
-# Projects
-## **Construction Building Tokyo Japan**
-
-Dec 2020 – Jan 2021
-
-Rebuild old desktop app (that's already running more than 20 years app) into Modern Website Using Laravue with Element Ul Starter Pack and There is had 200+ screen design on Figma. Using multiple database connection (ISO, GHG, JIS) MySQL and Oracle 12C. Optimized query response time from 15 minutes to seconds. Translated Flow & Language into Japan.
 
 
 

@@ -22,7 +22,7 @@ cv:
           - "Autonomous Operations & Commitment: Established and managed PT Yocatetin Data Inteligensia as an autonomous entity, allowing me to provide full professional commitment to tackling complex technical challenges within your organization."
           - "Full-Cycle Ownership: Independently managing the complete business lifecycle, from legal establishment (NIB/NPWP) to technical architecture and global infrastructure deployment."
           - "AI-Driven Innovation: Successfully launched two active global products (including YoCatetin) powered by Multi-LLM architecture to efficiently automate data management and media conversion."
-    Experience:
+    Career experience:
       - company: Samatech Surabaya
         position: Frontend Developer
         start_date: 2023-11
@@ -101,9 +101,10 @@ cv:
         location: Samarinda
         highlights:
           - "Co-founded tech startup; Chief Technology Officer; Head of Mobile Development; led 5+ projects."
-          - Developed systems multiple global country; expanded team to 11.
+          - Developed systems multiple global country; expanded team from 2 to 11 members.
           - Improved 21-years-old systems, reduced Oracle query time to 1-15 sec.
-          - "Notable Projects: Tokyo Construction (JPN), Australia Payment Gateway (Auspost), Poland Gallery."
+          - Rebuild old desktop app that's already running more than 20 years app into Modern Website and There is had 200+ screen design. Using multiple database connection (ISO, GHG, JIS) MySQL and Oracle 12C and Optimized query response time from 15 minutes to seconds. Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
+          - "Notable Projects: Construction Building Tokyo Japan, Australia Payment Gateway Auspost, Poland Gallery."
     Undergraduate Experience:
       - company: Digital Talent Scholarship
         position: Instructor Junior Mobile Programmer
@@ -141,11 +142,6 @@ cv:
         highlights:
           - Network setup Marine Tower & maintenance, routers, access points, IT support
           - "[PKL/Prakerin, Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)"
-    projects:
-      - name: Construction Building Tokyo Japan
-        start_date: 2020-12
-        end_date: 2021-01
-        summary: "Rebuild old desktop app (that's already running more than 20 years app) into Modern Website Using Laravue with Element Ul Starter Pack and There is had 200+ screen design on Figma. Using multiple database connection (ISO, GHG, JIS) MySQL and Oracle 12C. Optimized query response time from 15 minutes to seconds. Translated Flow & Language into Japan."
     skills:
       - label: Languages
         details: English (Advanced), Indonesian (Proficient), JAPAN (Beginner)
