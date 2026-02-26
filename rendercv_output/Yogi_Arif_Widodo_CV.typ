@@ -83,6 +83,13 @@
 )
 
 
+#grid(
+  columns: (auto, 1fr),
+  column-gutter: 0cm,
+  align: horizon + left,
+  [#pad(left: 0.4cm, right: 0.4cm, image("photo-yogiarifwidodo.jpeg", width: 3.5cm))
+],
+  [
 = Yogi Arif Widodo
 
   #headline([AI Software Engineer | Specialize Android])
@@ -94,6 +101,8 @@
   [#link("https://yogiveloper.com/", icon: false, if-underline: false, if-color: false)[yogiveloper.com]],
   [#link("https://yogithesymbian.github.io/", icon: false, if-underline: false, if-color: false)[yogithesymbian.github.io]],
   [#link("https://linkedin.com/in/yogi-arif-widodo", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/yogi-arif-widodo]],
+)
+  ]
 )
 
 
