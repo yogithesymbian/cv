@@ -277,7 +277,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    - Developing a native Android app.
+    - Developing a native Android Groceries app thats meet requirement with Java and i Combine with Kotlin for demonstrate Kotlin is more concise and can combine with Java in Single code base Android Projects.
 
   ],
 )
@@ -319,7 +319,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
   main-column-second-row: [
     - Network setup Marine Tower & maintenance, routers, access points, IT support
 
-    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Jetty CCTV System, Ubiquity, MikroTik, Cisco]
+    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Handle Jetty CCTV System, Ubiquity, MikroTik, Cisco]
 
   ],
 )
@@ -328,24 +328,13 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #strong[Languages:] English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
 
-#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, Domain-Driven Design (DDD Patern)
+#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, BloC, Getx, Riverpod, Domain-Driven Design (DDD Patern)
 
 == Certifications
 
   #regular-entry(
   [
     #summary[#link("https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170")[Google Certification Skill - Artificial Intelligence]]
-
-  ],
-  [
-  ],
-  main-column-second-row: [
-  ],
-)
-
-  #regular-entry(
-  [
-    #summary[#link("https://www.dicoding.com/certificates/JMZVEK8O3PN9")[Belajar Penggunaan Generative Al]]
 
   ],
   [
@@ -389,7 +378,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   #regular-entry(
   [
-    #summary[#link("https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing")[Indonesian Professional Certification Authority - Programming and Software Development]]
+    #summary[#link("https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/")[Flutter Development Bootcamp with Dart]]
 
   ],
   [
@@ -400,7 +389,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   #regular-entry(
   [
-    #summary[#link("https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/")[The Complete 2021 Flutter Development Bootcamp with Dart]]
+    #summary[#link("https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing")[Indonesian Professional Certification Authority - Programming and Software Development]]
 
   ],
   [
@@ -494,6 +483,8 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
+    #summary[During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks. I also explored programming with Pascal and HTML. In my free time, I taught myself VB.NET, going beyond the standard school curriculum.]
+
     - #link("https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing")[Certificate Competency]
 
   ],

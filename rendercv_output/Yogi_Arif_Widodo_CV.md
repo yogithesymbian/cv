@@ -111,7 +111,7 @@ Nov 2019 – Nov 2019
 
 July 2019 – Sept 2019
 
-- Developing a native Android app.
+- Developing a native Android Groceries app thats meet requirement with Java and i Combine with Kotlin for demonstrate Kotlin is more concise and can combine with Java in Single code base Android Projects.
 
 
 
@@ -137,25 +137,19 @@ Jan 2016 – Apr 2016
 
 - Network setup Marine Tower & maintenance, routers, access points, IT support
 
-- [Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
+- [Handle Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
 
 
 
 # Skills
 **Languages:** English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
 
-**Technical Assessment:** [News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, Domain-Driven Design (DDD Patern)
+**Technical Assessment:** [News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, BloC, Getx, Riverpod, Domain-Driven Design (DDD Patern)
 
 # Certifications
 ## ****
 
 [Google Certification Skill - Artificial Intelligence](https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170)
-
-
-
-## ****
-
-[Belajar Penggunaan Generative Al](https://www.dicoding.com/certificates/JMZVEK8O3PN9)
 
 
 
@@ -179,13 +173,13 @@ Jan 2016 – Apr 2016
 
 ## ****
 
-[Indonesian Professional Certification Authority - Programming and Software Development](https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing)
+[Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/)
 
 
 
 ## ****
 
-[The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/)
+[Indonesian Professional Certification Authority - Programming and Software Development](https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing)
 
 
 
@@ -234,6 +228,8 @@ Aug 2019
 
 
 ## **Smk Negeri 2 Penajam Paser Utara**,  in Computer and Network EngineeringJan 2014 – Jan 2017
+
+During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks. I also explored programming with Pascal and HTML. In my free time, I taught myself VB.NET, going beyond the standard school curriculum.
 
 - [Certificate Competency](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing)
 
