@@ -5,7 +5,7 @@ cv:
   email: ["yogiarifwidodo@icloud.com"]
   phone: +62815-4577-8612
   website: ["https://yogiveloper.com", "https://yogithesymbian.github.io"]
-  photo: photo-yogiarifwidodo.jpeg
+  # photo: photo-yogiarifwidodo.jpeg
   social_networks:
     - network: LinkedIn
       username: yogi-arif-widodo
@@ -13,7 +13,7 @@ cv:
     summary:
       - "Over the past 9 years, I have specialized in digitalizing manual industries across global markets, including Japan, Australia, Poland and India. I’ve led large-scale transformations. most notably in maritime logistics. I architected high-availability systems that moved 200+ companies (including Schlumberger and Pertamina) to 100% paperless operations with consistent 24/7 uptime. After delivering 25+ real-world projects with a 100% client approval rate, I am now building autonomous AI products at Yocatetin using Multi-LLM architectures to efficiently automate data management globally."
     Founder experience:
-      - company: Yocatetin Data Inteligensia
+      - company: PT Yocatetin Data Inteligensia
         position: Founder & Lead Software Engineer
         start_date: 2026-02
         end_date: present
@@ -42,7 +42,7 @@ cv:
         summary: 100% paperless operation for a massive client base.
         highlights:
           - "Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management."
-          - "High-Stakes Collaboration: Partnered with major global and national tenants, including PT. Pertamina Patra Niaga (PATRA), PT. Triputra Energi Megatara (TEM), PT. Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback."
+          - "High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback."
           # - "Enterprise Reliability: Built and maintained infrastructure currently used by 200+ companies, ensuring consistent performance and data integrity across VPS and IoT integration."
           - "100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100% alignment with client needs."
       # - company: PT Sarana Abadi Lestari
@@ -73,7 +73,7 @@ cv:
       #     - Developed a real-time monitoring system for vehicle activities, enhancing logistics operations.
       #     - Managed multiple projects, ensuring timely delivery and high client satisfaction.
       #     - Designed a secure digital pass system to streamline check-in/out processes.
-      - company: PT. BEEMATA DEV
+      - company: PT BEEMATA DEV
         position: Flutter Developer
         start_date: 2022-05
         end_date: 2022-09
@@ -93,7 +93,7 @@ cv:
         start_date: 2022-08
         end_date: 2022-08
         highlights:
-          - Developed pesticide info app
+          - Developed [pesticide](https://play.google.com/store/apps/details?id=com.pestisida.simpes) info app
           - focusing on UI/UX and API integration.
     Career Experience:
       - company: PT INDEKS MEDIA TEKNOLOGI
@@ -133,13 +133,14 @@ cv:
           - Founded SCODEID (not yet registered), a tech brand focused on delivering custom IT solutions.
           - Successfully completed over 10 freelance projects for multiple global client.
           - Developed innovative software solutions tailored to meet diverse client needs.
-          - "Notable Projects: Leave Apps & Attendance System (JPN), Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA), [First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing)"
+          - "[First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing)."
+          - "Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA)"
     Undergraduate experience:
-      - company: PT. PELABUHAN PENAJAM BENUA TAKA
+      - company: PT PELABUHAN PENAJAM BENUA TAKA (eastkal)
         position: Network Engineer
         start_date: 2016-01
         end_date: 2016-04
-        location: Penajam Paser Utara
+        location: "Penajam"
         highlights:
           - Network setup Marine Tower & maintenance, routers, access points, IT support
           - "[PKL/Prakerin, Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)"
@@ -166,12 +167,12 @@ cv:
         issuer: Dicoding
       - name: ""
         summary: "[Indonesian Professional Certification Authority - Programming and Software Development](https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing)"
-        issuer: Dicoding
+        issuer: BNSP
       - name: ""
-        summary: "[Udemy - The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/)"
+        summary: "[The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/)"
         issuer: Udemy
       - name: ""
-        summary: "[Udemy- Fifteen Great CTO Leadership Hacks](https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/)"
+        summary: "[Fifteen Great CTO Leadership Hacks](https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/)"
         issuer: Udemy
     competition:
       - name: ""

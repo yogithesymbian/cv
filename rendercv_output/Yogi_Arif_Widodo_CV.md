@@ -11,7 +11,7 @@
 Over the past 9 years, I have specialized in digitalizing manual industries across global markets, including Japan, Australia, Poland and India. I’ve led large-scale transformations. most notably in maritime logistics. I architected high-availability systems that moved 200+ companies (including Schlumberger and Pertamina) to 100% paperless operations with consistent 24/7 uptime. After delivering 25+ real-world projects with a 100% client approval rate, I am now building autonomous AI products at Yocatetin using Multi-LLM architectures to efficiently automate data management globally.
 
 # Founder experience
-## **Founder & Lead Software Engineer**, Yocatetin Data Inteligensia -- Indonesia
+## **Founder & Lead Software Engineer**, PT Yocatetin Data Inteligensia -- Indonesia
 
 Feb 2026 – present
 
@@ -43,13 +43,13 @@ July 2022 – Oct 2025
 
 - Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management.
 
-- High-Stakes Collaboration: Partnered with major global and national tenants, including PT. Pertamina Patra Niaga (PATRA), PT. Triputra Energi Megatara (TEM), PT. Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback.
+- High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback.
 
 - 100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100% alignment with client needs.
 
 
 
-## **Flutter Developer**, PT. BEEMATA DEV
+## **Flutter Developer**, PT BEEMATA DEV
 
 May 2022 – Sept 2022
 
@@ -75,7 +75,7 @@ Aug 2022 – Sept 2022
 
 Aug 2022 – Aug 2022
 
-- Developed pesticide info app
+- Developed [pesticide](https://play.google.com/store/apps/details?id=com.pestisida.simpes) info app
 
 - focusing on UI/UX and API integration.
 
@@ -128,12 +128,14 @@ Mar 2017 – Jan 2026
 
 - Developed innovative software solutions tailored to meet diverse client needs.
 
-- Notable Projects: Leave Apps & Attendance System (JPN), Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA), [First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing)
+- [First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing).
+
+- Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA)
 
 
 
 # Undergraduate experience
-## **Network Engineer**, PT. PELABUHAN PENAJAM BENUA TAKA -- Penajam Paser Utara
+## **Network Engineer**, PT PELABUHAN PENAJAM BENUA TAKA (eastkal) -- Penajam
 
 Jan 2016 – Apr 2016
 
@@ -187,13 +189,13 @@ Jan 2016 – Apr 2016
 
 ## ****
 
-[Udemy - The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/)
+[The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/)
 
 
 
 ## ****
 
-[Udemy- Fifteen Great CTO Leadership Hacks](https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/)
+[Fifteen Great CTO Leadership Hacks](https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/)
 
 
 

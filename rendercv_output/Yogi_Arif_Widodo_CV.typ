@@ -83,13 +83,6 @@
 )
 
 
-#grid(
-  columns: (auto, 1fr),
-  column-gutter: 0cm,
-  align: horizon + left,
-  [#pad(left: 0.4cm, right: 0.4cm, image("photo-yogiarifwidodo.jpeg", width: 3.5cm))
-],
-  [
 = Yogi Arif Widodo
 
   #headline([AI Software Engineer | Specialize Android])
@@ -102,8 +95,6 @@
   [#link("https://yogithesymbian.github.io/", icon: false, if-underline: false, if-color: false)[yogithesymbian.github.io]],
   [#link("https://linkedin.com/in/yogi-arif-widodo", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/yogi-arif-widodo]],
 )
-  ]
-)
 
 
 == Summary
@@ -114,7 +105,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Founder & Lead Software Engineer], Yocatetin Data Inteligensia -- Indonesia
+    #strong[Founder & Lead Software Engineer], PT Yocatetin Data Inteligensia -- Indonesia
 
   ],
   [
@@ -166,7 +157,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
     - Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management.
 
-    - High-Stakes Collaboration: Partnered with major global and national tenants, including PT. Pertamina Patra Niaga (PATRA), PT. Triputra Energi Megatara (TEM), PT. Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback.
+    - High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback.
 
     - 100\% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100\% alignment with client needs.
 
@@ -175,7 +166,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Flutter Developer], PT. BEEMATA DEV
+    #strong[Flutter Developer], PT BEEMATA DEV
 
   ],
   [
@@ -219,7 +210,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    - Developed pesticide info app
+    - Developed #link("https://play.google.com/store/apps/details?id=com.pestisida.simpes")[pesticide] info app
 
     - focusing on UI\/UX and API integration.
 
@@ -303,7 +294,9 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
     - Developed innovative software solutions tailored to meet diverse client needs.
 
-    - Notable Projects: Leave Apps & Attendance System (JPN), Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA), #link("https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing")[First Earning Upwork]
+    - #link("https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing")[First Earning Upwork].
+
+    - Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA)
 
   ],
 )
@@ -312,7 +305,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Network Engineer], PT. PELABUHAN PENAJAM BENUA TAKA -- Penajam Paser Utara
+    #strong[Network Engineer], PT PELABUHAN PENAJAM BENUA TAKA (eastkal) -- Penajam
 
   ],
   [
@@ -403,7 +396,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   #regular-entry(
   [
-    #summary[#link("https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/")[Udemy - The Complete 2021 Flutter Development Bootcamp with Dart]]
+    #summary[#link("https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/")[The Complete 2021 Flutter Development Bootcamp with Dart]]
 
   ],
   [
@@ -414,7 +407,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   #regular-entry(
   [
-    #summary[#link("https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/")[Udemy- Fifteen Great CTO Leadership Hacks]]
+    #summary[#link("https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/")[Fifteen Great CTO Leadership Hacks]]
 
   ],
   [
