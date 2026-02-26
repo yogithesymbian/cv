@@ -3,7 +3,7 @@
 - Phone: +62 815 4577 8612
 - Email: [['yogiarifwidodo@icloud.com']](mailto:['yogiarifwidodo@icloud.com'])
 - Location: Samarinda, Indonesia
-- Website: [[HttpUrl('yogiveloper.com'), HttpUrl('yogithesymbian.github.io')]]([HttpUrl('https://yogiveloper.com/'), HttpUrl('https://yogithesymbian.github.io/')])
+- Website: [[HttpUrl('github.comyogithesymbian')]]([HttpUrl('https://github.com/yogithesymbian')])
 - LinkedIn: [yogi-arif-widodo](https://linkedin.com/in/yogi-arif-widodo)
 
 
@@ -11,7 +11,7 @@
 Over the past 9 years, I have specialized in digitalizing manual industries across global markets, including Japan, Australia, Poland and India. I’ve led large-scale transformations. most notably in maritime logistics. I architected high-availability systems that moved 200+ companies (including Schlumberger and Pertamina) to 100% paperless operations with consistent 24/7 uptime. After delivering 25+ real-world projects with a 100% client approval rate, I am now building autonomous AI products at Yocatetin using Multi-LLM architectures to efficiently automate data management globally.
 
 # Founder experience
-## **Founder & Lead Software Engineer**, PT Yocatetin Data Inteligensia -- Indonesia
+## **Founder & Software Engineer**, Yocatetin Data Inteligensia -- Indonesia
 
 Feb 2026 – present
 
@@ -24,7 +24,7 @@ Feb 2026 – present
 
 
 # Career experience
-## **Frontend Developer**, Samatech Surabaya -- Surabaya (Base Camp on Samarinda)
+## **Frontend Developer**, Samatech -- Surabaya (Base Camp on Samarinda)
 
 Nov 2023 – Aug 2025
 
@@ -49,7 +49,7 @@ July 2022 – Oct 2025
 
 
 
-## **Flutter Developer**, PT BEEMATA DEV
+## **Flutter Developer**, PT BEEMATA DEV -- Indonesia
 
 May 2022 – Sept 2022
 
@@ -61,7 +61,7 @@ May 2022 – Sept 2022
 
 
 
-## **Flutter Developer**, Bowindo
+## **Flutter Developer**, Bowindo -- Indonesia
 
 Aug 2022 – Sept 2022
 
@@ -86,18 +86,18 @@ Aug 2022 – Aug 2022
 
 Dec 2020 – May 2022
 
-- Developed systems multiple global country; expanded team from 2 to 11 members.
-
-- Rebuild old desktop app that's already running more than 20 years app into Modern Website. Optimized query MySQL & Oracle 12c response time from 15 minutes to seconds.
+- Rebuild old desktop apps "Construction Building Tokyo Japan" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japan name on every column thats i got result response time from 15 minutes to seconds.
 
 - Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
+
+- Developed systems multiple global country; expanded team from 2 to 11 members.
 
 - Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery.
 
 
 
 # Undergraduate Experience
-## **Instructor Junior Mobile Programmer**, Digital Talent Scholarship -- Samarinda
+## **Instructor Junior Mobile Programmer**, Digital Talent Scholarship -- Politeknik Negeri Samarinda
 
 Nov 2019 – Nov 2019
 
@@ -107,13 +107,11 @@ Nov 2019 – Nov 2019
 
 
 
-## **Android Developer**, CV. PAULFEN MANDIRI -- Samarinda
+## **Android Developer | Kuliah Kerja Praktek (KKP)**, CV. PAULFEN MANDIRI -- Samarinda
 
 July 2019 – Sept 2019
 
 - Developing a native Android app.
-
-- Company offer me to join company.
 
 
 
@@ -122,11 +120,9 @@ July 2019 – Sept 2019
 
 Mar 2017 – Jan 2026
 
-- Founded SCODEID (not yet registered), a tech brand focused on delivering custom IT solutions.
+- Founded SCODEID, a tech brand focused on delivering custom IT solutions.
 
 - Successfully completed over 10 freelance projects for multiple global client.
-
-- Developed innovative software solutions tailored to meet diverse client needs.
 
 - [First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing).
 
@@ -135,20 +131,20 @@ Mar 2017 – Jan 2026
 
 
 # Undergraduate experience
-## **Network Engineer**, PT PELABUHAN PENAJAM BENUA TAKA (eastkal) -- Penajam
+## **Network Engineer | Praktek Kerja Lapangan (PKL)**, PT PELABUHAN PENAJAM BENUA TAKA (eastkal supply base) -- Penajam
 
 Jan 2016 – Apr 2016
 
 - Network setup Marine Tower & maintenance, routers, access points, IT support
 
-- [PKL/Prakerin, Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
+- [Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
 
 
 
 # Skills
-**Languages:** English (Advanced), Indonesian (Proficient), JAPAN (Beginner)
+**Languages:** English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
 
-**Technical Assessment:** [News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using DDD for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, DDD Patern)
+**Technical Assessment:** [News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, Domain-Driven Design (DDD Patern)
 
 # Certifications
 ## ****

@@ -1,10 +1,10 @@
 cv:
   name: Yogi Arif Widodo
-  headline: AI Software Engineer | Specialize Android
+  headline: Software Engineer | Specialize Android | AI Enthusiast
   location: Samarinda, Indonesia
   email: ["yogiarifwidodo@icloud.com"]
   phone: +62815-4577-8612
-  website: ["https://yogiveloper.com", "https://yogithesymbian.github.io"]
+  website: ["https://github.com/yogithesymbian"]
   photo: photo-yogiarifwidodo.jpeg
   social_networks:
     - network: LinkedIn
@@ -13,8 +13,8 @@ cv:
     summary:
       - "Over the past 9 years, I have specialized in digitalizing manual industries across global markets, including Japan, Australia, Poland and India. I’ve led large-scale transformations. most notably in maritime logistics. I architected high-availability systems that moved 200+ companies (including Schlumberger and Pertamina) to 100% paperless operations with consistent 24/7 uptime. After delivering 25+ real-world projects with a 100% client approval rate, I am now building autonomous AI products at Yocatetin using Multi-LLM architectures to efficiently automate data management globally."
     Founder experience:
-      - company: PT Yocatetin Data Inteligensia
-        position: Founder & Lead Software Engineer
+      - company: Yocatetin Data Inteligensia
+        position: Founder & Software Engineer
         start_date: 2026-02
         end_date: present
         location: Indonesia
@@ -25,7 +25,7 @@ cv:
             # Managing the complete business lifecycle, from legal establishment to technical architecture and global infrastructure deployment.
           - "AI-Driven Innovation"
     Career experience:
-      - company: Samatech Surabaya
+      - company: Samatech
         position: Frontend Developer
         start_date: 2023-11
         end_date: 2025-08
@@ -77,6 +77,7 @@ cv:
         position: Flutter Developer
         start_date: 2022-05
         end_date: 2022-09
+        location: Indonesia
         highlights:
           - Built cross-platform attendance app for Japanese and Indonesian firms.
           - Code reviewed by team lead.
@@ -85,6 +86,7 @@ cv:
         position: Flutter Developer
         start_date: 2022-08
         end_date: 2022-09
+        location: Indonesia
         highlights:
           - Improved UI with Figma and ChatGPT as Assistant
           - Resolved QA bugs quickly, Iterated features via user feedback
@@ -102,27 +104,26 @@ cv:
         end_date: 2022-05
         location: Samarinda
         highlights:
-          - Developed systems multiple global country; expanded team from 2 to 11 members.
-          - Rebuild old desktop app that's already running more than 20 years app into Modern Website. Optimized query MySQL & Oracle 12c response time from 15 minutes to seconds.
+          - Rebuild old desktop apps "Construction Building Tokyo Japan" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japan name on every column thats i got result response time from 15 minutes to seconds.
           - Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
+          - Developed systems multiple global country; expanded team from 2 to 11 members.
           - "Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery."
     Undergraduate Experience:
       - company: Digital Talent Scholarship
         position: Instructor Junior Mobile Programmer
         start_date: 2019-11
         end_date: 2019-11
-        location: Samarinda
+        location: Politeknik Negeri Samarinda
         highlights:
           - "[Led a project for SMK and university students, earned certifications.](https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing)"
           - Found SMK students needed algorithm knowledge, explained using Android Studio.
       - company: CV. PAULFEN MANDIRI
-        position: Android Developer
+        position: Android Developer | Kuliah Kerja Praktek (KKP)
         start_date: 2019-07
         end_date: 2019-09
         location: Samarinda
         highlights:
           - Developing a native Android app.
-          - Company offer me to join company.
     Founder Experience:
       - company: SCODEID
         position: Founder & Software Engineer
@@ -130,25 +131,24 @@ cv:
         end_date: 2026-01
         location: Indonesia
         highlights:
-          - Founded SCODEID (not yet registered), a tech brand focused on delivering custom IT solutions.
+          - Founded SCODEID, a tech brand focused on delivering custom IT solutions.
           - Successfully completed over 10 freelance projects for multiple global client.
-          - Developed innovative software solutions tailored to meet diverse client needs.
           - "[First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing)."
           - "Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA)"
     Undergraduate experience:
-      - company: PT PELABUHAN PENAJAM BENUA TAKA (eastkal)
-        position: Network Engineer
+      - company: PT PELABUHAN PENAJAM BENUA TAKA (eastkal supply base)
+        position: Network Engineer | Praktek Kerja Lapangan (PKL)
         start_date: 2016-01
         end_date: 2016-04
         location: "Penajam"
         highlights:
           - Network setup Marine Tower & maintenance, routers, access points, IT support
-          - "[PKL/Prakerin, Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)"
+          - "[Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)"
     skills:
       - label: Languages
-        details: English (Advanced), Indonesian (Proficient), JAPAN (Beginner)
+        details: English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
       - label: Technical Assessment
-        details: "[News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using DDD for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, DDD Patern)"
+        details: "[News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, Domain-Driven Design (DDD Patern)"
     certifications:
       - name: ""
         summary: "[Google Certification Skill - Artificial Intelligence](https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170)"

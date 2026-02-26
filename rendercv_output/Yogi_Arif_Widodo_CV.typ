@@ -78,7 +78,7 @@
   date: datetime(
     year: 2026,
     month: 2,
-    day: 26,
+    day: 27,
   ),
 )
 
@@ -92,14 +92,13 @@
   [
 = Yogi Arif Widodo
 
-  #headline([AI Software Engineer | Specialize Android])
+  #headline([Software Engineer | Specialize Android | AI Enthusiast])
 
 #connections(
   [Samarinda, Indonesia],
   [#link("mailto:yogiarifwidodo@icloud.com", icon: false, if-underline: false, if-color: false)[yogiarifwidodo\@icloud.com]],
   [#link("tel:+62-815-4577-8612", icon: false, if-underline: false, if-color: false)[0815-4577-8612]],
-  [#link("https://yogiveloper.com/", icon: false, if-underline: false, if-color: false)[yogiveloper.com]],
-  [#link("https://yogithesymbian.github.io/", icon: false, if-underline: false, if-color: false)[yogithesymbian.github.io]],
+  [#link("https://github.com/yogithesymbian", icon: false, if-underline: false, if-color: false)[github.com\/yogithesymbian]],
   [#link("https://linkedin.com/in/yogi-arif-widodo", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/yogi-arif-widodo]],
 )
   ]
@@ -114,7 +113,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Founder & Lead Software Engineer], PT Yocatetin Data Inteligensia -- Indonesia
+    #strong[Founder & Software Engineer], Yocatetin Data Inteligensia -- Indonesia
 
   ],
   [
@@ -135,7 +134,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Frontend Developer], Samatech Surabaya -- Surabaya (Base Camp on Samarinda)
+    #strong[Frontend Developer], Samatech -- Surabaya (Base Camp on Samarinda)
 
   ],
   [
@@ -175,7 +174,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Flutter Developer], PT BEEMATA DEV
+    #strong[Flutter Developer], PT BEEMATA DEV -- Indonesia
 
   ],
   [
@@ -194,7 +193,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Flutter Developer], Bowindo
+    #strong[Flutter Developer], Bowindo -- Indonesia
 
   ],
   [
@@ -238,11 +237,11 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    - Developed systems multiple global country; expanded team from 2 to 11 members.
-
-    - Rebuild old desktop app that's already running more than 20 years app into Modern Website. Optimized query MySQL & Oracle 12c response time from 15 minutes to seconds.
+    - Rebuild old desktop apps \"Construction Building Tokyo Japan\" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japan name on every column thats i got result response time from 15 minutes to seconds.
 
     - Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
+
+    - Developed systems multiple global country; expanded team from 2 to 11 members.
 
     - Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery.
 
@@ -253,7 +252,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Instructor Junior Mobile Programmer], Digital Talent Scholarship -- Samarinda
+    #strong[Instructor Junior Mobile Programmer], Digital Talent Scholarship -- Politeknik Negeri Samarinda
 
   ],
   [
@@ -270,7 +269,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Android Developer], CV. PAULFEN MANDIRI -- Samarinda
+    #strong[Android Developer | Kuliah Kerja Praktek (KKP)], CV. PAULFEN MANDIRI -- Samarinda
 
   ],
   [
@@ -279,8 +278,6 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
   ],
   main-column-second-row: [
     - Developing a native Android app.
-
-    - Company offer me to join company.
 
   ],
 )
@@ -297,11 +294,9 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    - Founded SCODEID (not yet registered), a tech brand focused on delivering custom IT solutions.
+    - Founded SCODEID, a tech brand focused on delivering custom IT solutions.
 
     - Successfully completed over 10 freelance projects for multiple global client.
-
-    - Developed innovative software solutions tailored to meet diverse client needs.
 
     - #link("https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing")[First Earning Upwork].
 
@@ -314,7 +309,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Network Engineer], PT PELABUHAN PENAJAM BENUA TAKA (eastkal) -- Penajam
+    #strong[Network Engineer | Praktek Kerja Lapangan (PKL)], PT PELABUHAN PENAJAM BENUA TAKA (eastkal supply base) -- Penajam
 
   ],
   [
@@ -324,16 +319,16 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
   main-column-second-row: [
     - Network setup Marine Tower & maintenance, routers, access points, IT support
 
-    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[PKL\/Prakerin, Jetty CCTV System, Ubiquity, MikroTik, Cisco]
+    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Jetty CCTV System, Ubiquity, MikroTik, Cisco]
 
   ],
 )
 
 == Skills
 
-#strong[Languages:] English (Advanced), Indonesian (Proficient), JAPAN (Beginner)
+#strong[Languages:] English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
 
-#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using DDD for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, DDD Patern)
+#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, Domain-Driven Design (DDD Patern)
 
 == Certifications
 
