@@ -1,0 +1,522 @@
+// Import the rendercv function and all the refactored components
+#import "@preview/rendercv:0.1.0": *
+
+// Apply the rendercv template with custom configuration
+#show: rendercv.with(
+  name: "Yogi Arif Widodo",
+  footer: context { [#emph[Yogi Arif Widodo -- #str(here().page())\/#str(counter(page).final().first())]] },
+  top-note: [ #emph[Last updated in Feb 2026] ],
+  locale-catalog-language: "en",
+  page-size: "us-letter",
+  page-top-margin: 0.7in,
+  page-bottom-margin: 0.7in,
+  page-left-margin: 0.7in,
+  page-right-margin: 0.7in,
+  page-show-footer: false,
+  page-show-top-note: true,
+  colors-body: rgb(0, 0, 0),
+  colors-name: rgb(0, 0, 0),
+  colors-headline: rgb(0, 0, 0),
+  colors-connections: rgb(0, 0, 0),
+  colors-section-titles: rgb(0, 0, 0),
+  colors-links: rgb(0, 0, 0),
+  colors-footer: rgb(128, 128, 128),
+  colors-top-note: rgb(128, 128, 128),
+  typography-line-spacing: 0.6em,
+  typography-alignment: "justified",
+  typography-date-and-location-column-alignment: right,
+  typography-font-family-body: "XCharter",
+  typography-font-family-name: "XCharter",
+  typography-font-family-headline: "XCharter",
+  typography-font-family-connections: "XCharter",
+  typography-font-family-section-titles: "XCharter",
+  typography-font-size-body: 10pt,
+  typography-font-size-name: 25pt,
+  typography-font-size-headline: 10pt,
+  typography-font-size-connections: 10pt,
+  typography-font-size-section-titles: 1.2em,
+  typography-small-caps-name: false,
+  typography-small-caps-headline: false,
+  typography-small-caps-connections: false,
+  typography-small-caps-section-titles: false,
+  typography-bold-name: false,
+  typography-bold-headline: false,
+  typography-bold-connections: false,
+  typography-bold-section-titles: true,
+  links-underline: true,
+  links-show-external-link-icon: false,
+  header-alignment: center,
+  header-photo-width: 3.5cm,
+  header-space-below-name: 0.7cm,
+  header-space-below-headline: 0.7cm,
+  header-space-below-connections: 0.7cm,
+  header-connections-hyperlink: true,
+  header-connections-show-icons: false,
+  header-connections-display-urls-instead-of-usernames: true,
+  header-connections-separator: "|",
+  header-connections-space-between-connections: 0.5cm,
+  section-titles-type: "with_full_line",
+  section-titles-line-thickness: 0.5pt,
+  section-titles-space-above: 0.5cm,
+  section-titles-space-below: 0.3cm,
+  sections-allow-page-break: true,
+  sections-space-between-text-based-entries: 0.15cm,
+  sections-space-between-regular-entries: 0.42cm,
+  entries-date-and-location-width: 4.15cm,
+  entries-side-space: 0cm,
+  entries-space-between-columns: 0.1cm,
+  entries-allow-page-break: false,
+  entries-short-second-row: false,
+  entries-summary-space-left: 0cm,
+  entries-summary-space-above: 0.08cm,
+  entries-highlights-bullet:  text(13pt, [•], baseline: -0.6pt) ,
+  entries-highlights-nested-bullet:  text(13pt, [•], baseline: -0.6pt) ,
+  entries-highlights-space-left: 0cm,
+  entries-highlights-space-above: 0.08cm,
+  entries-highlights-space-between-items: 0.08cm,
+  entries-highlights-space-between-bullet-and-text: 0.3em,
+  date: datetime(
+    year: 2026,
+    month: 2,
+    day: 26,
+  ),
+)
+
+
+#grid(
+  columns: (auto, 1fr),
+  column-gutter: 0cm,
+  align: horizon + left,
+  [#pad(left: 0.4cm, right: 0.4cm, image("photo-yogiarifwidodo.jpeg", width: 3.5cm))
+],
+  [
+= Yogi Arif Widodo
+
+  #headline([AI Software Engineer | Specialize Android])
+
+#connections(
+  [Samarinda, Indonesia],
+  [#link("mailto:yogiarifwidodo@icloud.com", icon: false, if-underline: false, if-color: false)[yogiarifwidodo\@icloud.com]],
+  [#link("tel:+62-815-4577-8612", icon: false, if-underline: false, if-color: false)[0815-4577-8612]],
+  [#link("https://yogiveloper.com/", icon: false, if-underline: false, if-color: false)[yogiveloper.com]],
+  [#link("https://yogithesymbian.github.io/", icon: false, if-underline: false, if-color: false)[yogithesymbian.github.io]],
+  [#link("https://linkedin.com/in/yogi-arif-widodo", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/yogi-arif-widodo]],
+)
+  ]
+)
+
+
+== Summary
+
+Over the past 9 years, I have specialized in digitalizing manual industries across global markets, including Japan, Australia, Poland and India. I’ve led large-scale transformations. most notably in maritime logistics. I architected high-availability systems that moved 200+ companies (including Schlumberger and Pertamina) to 100\% paperless operations with consistent 24\/7 uptime. After delivering 25+ real-world projects with a 100\% client approval rate, I am now building autonomous AI products at Yocatetin using Multi-LLM architectures to automate data management globally.
+
+== Founder experience
+
+#regular-entry(
+  [
+    #strong[Founder & Lead Software Engineer], Yocatetin Data Inteligensia -- Indonesia
+
+  ],
+  [
+    Feb 2026 – present
+
+  ],
+  main-column-second-row: [
+    - Autonomous Operations & Commitment: Established and managed PT Yocatetin Data Inteligensia as an autonomous entity, allowing me to provide full professional commitment to tackling complex technical challenges within your organization.
+
+    - Full-Cycle Ownership: Independently managing the complete business lifecycle, from legal establishment (NIB\/NPWP) to technical architecture and global infrastructure deployment.
+
+    - AI-Driven Innovation: Successfully launched two active global products (including YoCatetin) powered by Multi-LLM architecture to efficiently automate data management and media conversion.
+
+  ],
+)
+
+== Experience
+
+#regular-entry(
+  [
+    #strong[Frontend Developer], Samatech Surabaya -- Surabaya (Base Camp on Samarinda)
+
+  ],
+  [
+    Nov 2023 – Aug 2025
+
+  ],
+  main-column-second-row: [
+    - Contributed to & enhanced Samatech internal applications.
+
+    - Revitalized a client’s logistics company nearing closure by architecting a custom management system that digitized manual workflows and expanded operational capacity.
+
+  ],
+)
+
+== Freelance Experience
+
+#regular-entry(
+  [
+    #strong[Full-Stack Software Engineer], PT Sarana Abadi Lestari -- Indonesia
+
+  ],
+  [
+    July 2022 – Oct 2025
+
+  ],
+  main-column-second-row: [
+    #summary[I pioneered the digital shift for Port Services (BUP Public Terminal) by architecting a resilient high-availability ecosystem that has maintained consistent 24\/7 uptime for over three years. By proactively stabilizing the infrastructure through a strategic migration to VULTR, I resolved initial bottlenecks, ensuring that any remaining issues are rare. By merging software engineering with IoT, I transformed heavy manual workflows into a streamlined, 100\% paperless operation for a massive client base.]
+
+    - Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management.
+
+    - High-Stakes Collaboration: Partnered with major global and national tenants, including PT. Pertamina Patra Niaga (PATRA), PT. Triputra Energi Megatara (TEM), PT. Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback.
+
+    - Enterprise Reliability: Built and maintained infrastructure currently used by 200+ companies, ensuring consistent performance and data integrity across VPS and IoT integration (Arduino\/Raspberry Pi).
+
+    - 100\% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100\% alignment with client needs.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Flutter Developer], PT. BEEMATA DEV
+
+  ],
+  [
+    May 2022 – Sept 2022
+
+  ],
+  main-column-second-row: [
+    - Built cross-platform attendance app for Japanese and Indonesian firms.
+
+    - Code reviewed by team lead.
+
+    - Integrated Google Maps API for tracking on iOS\/Android.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Flutter Developer], Bowindo
+
+  ],
+  [
+    Aug 2022 – Sept 2022
+
+  ],
+  main-column-second-row: [
+    - Improved UI with Figma and ChatGPT as Assistant
+
+    - Resolved QA bugs quickly, Iterated features via user feedback
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Flutter Developer], Remote Worker Indonesia
+
+  ],
+  [
+    Aug 2022 – Aug 2022
+
+  ],
+  main-column-second-row: [
+    - Developed pesticide info app
+
+    - focusing on UI\/UX and API integration.
+
+  ],
+)
+
+== Career Experience
+
+#regular-entry(
+  [
+    #strong[Co-Founder], PT INDEKS MEDIA TEKNOLOGI -- Samarinda
+
+  ],
+  [
+    Dec 2020 – May 2022
+
+  ],
+  main-column-second-row: [
+    - Co-founded tech startup; Chief Technology Officer; Head of Mobile Development; led 5+ projects.
+
+    - Developed systems multiple global country; expanded team to 11.
+
+    - Improved 21-years-old systems, reduced Oracle query time to 1-15 sec.
+
+    - Notable Projects: Tokyo Construction (JPN), Australia Payment Gateway (Auspost), Poland Gallery.
+
+  ],
+)
+
+== Undergraduate Experience
+
+#regular-entry(
+  [
+    #strong[Instructor Junior Mobile Programmer], Digital Talent Scholarship -- Samarinda
+
+  ],
+  [
+    Nov 2019 – Nov 2019
+
+  ],
+  main-column-second-row: [
+    - #link("https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing")[Led a project for SMK and university students, earned certifications.]
+
+    - Found SMK students needed algorithm knowledge, explained using Android Studio.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Android Developer], CV. PAULFEN MANDIRI -- Samarinda
+
+  ],
+  [
+    July 2019 – Sept 2019
+
+  ],
+  main-column-second-row: [
+    - Developing a native Android app.
+
+    - Company offer me to join company.
+
+  ],
+)
+
+== Founder Experience
+
+#regular-entry(
+  [
+    #strong[Founder & Software Engineer], SCODEID -- Indonesia
+
+  ],
+  [
+    Mar 2017 – Jan 2026
+
+  ],
+  main-column-second-row: [
+    - Founded SCODEID (not yet registered), a tech brand focused on delivering custom IT solutions.
+
+    - Successfully completed over 10 freelance projects for multiple global client.
+
+    - Developed innovative software solutions tailored to meet diverse client needs.
+
+    - Notable Projects: Leave Apps & Attendance System (JPN), Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA), #link("https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing")[First Earning Upwork]
+
+  ],
+)
+
+== Undergraduate experience
+
+#regular-entry(
+  [
+    #strong[Network Engineer], PT. PELABUHAN PENAJAM BENUA TAKA -- Penajam Paser Utara
+
+  ],
+  [
+    Jan 2016 – Apr 2016
+
+  ],
+  main-column-second-row: [
+    - Network setup Marine Tower & maintenance, routers, access points, IT support
+
+    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[PKL\/Prakerin, Jetty CCTV System, Ubiquity, MikroTik, Cisco]
+
+  ],
+)
+
+== Projects
+
+#regular-entry(
+  [
+    #strong[Construction Building Tokyo Japan]
+
+  ],
+  [
+    Dec 2020 – Jan 2021
+
+  ],
+  main-column-second-row: [
+    #summary[Rebuild old desktop app (that's already running more than 20 years app) into Modern Website Using Laravue with Element Ul Starter Pack and There is had 200+ screen design on Figma. Using multiple database connection (ISO, GHG, JIS) MySQL and Oracle 12C. Optimized query response time from 15 minutes to seconds. Translated Flow & Language into Japan.]
+
+  ],
+)
+
+== Skills
+
+#strong[Languages:] English (Advanced), Indonesian (Proficient), JAPAN (Beginner)
+
+#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using DDD for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, DDD Patern)
+
+== Certifications
+
+  #regular-entry(
+  [
+    #summary[#link("https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170")[Google Certification Skill - Artificial Intelligence]]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #regular-entry(
+  [
+    #summary[#link("https://www.dicoding.com/certificates/JMZVEK8O3PN9")[Belajar Penggunaan Generative Al]]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #regular-entry(
+  [
+    #summary[#link("https://drive.google.com/file/d/1c38A88M9TRTK7biA0X7UBDbnE20NzzBl/view?usp=sharing")[Alibaba Cloud - Big Data: A Quick Guide to Process Structured Data]]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #regular-entry(
+  [
+    #summary[#link("https://drive.google.com/file/d/1tGqwIXZG6R4-qkSInz_YF6FBAjvMyYMl/view?usp=sharing")[Oracle Database Foundation]]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #regular-entry(
+  [
+    #summary[#link("https://drive.google.com/file/d/12uY-jkKY0PWYGZ94ueuuRyHSNcvO3WNa/view?usp=sharing")[Dicoding - Kotlin Android Developer Expert]]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #regular-entry(
+  [
+    #summary[#link("https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing")[Indonesian Professional Certification Authority - Programming and Software Development]]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #regular-entry(
+  [
+    #summary[#link("https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/")[Udemy - The Complete 2021 Flutter Development Bootcamp with Dart]]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #regular-entry(
+  [
+    #summary[#link("https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/")[Udemy- Fifteen Great CTO Leadership Hacks]]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
+
+== Competition
+
+#regular-entry(
+  [
+    #summary[#link("https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing")[The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau]]
+
+  ],
+  [
+    Sept 2020
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+#regular-entry(
+  [
+    #summary[#link("https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing")[Bali Startup Camp Held at STMIK Primakara Denpasar]]
+
+  ],
+  [
+    Dec 2019
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+#regular-entry(
+  [
+    #summary[#link("https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing")[Samarinda Hackathon 2.0]]
+
+  ],
+  [
+    Aug 2019
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+== Education
+
+#education-entry(
+  [
+    #strong[Politeknik Negeri Samarinda], A.Md.Kom in Technic Informatic -- Samarinda, Indonesia
+
+  ],
+  [
+    Nov 2017 – Nov 2020
+
+  ],
+  main-column-second-row: [
+    - GPA: 3.91\/4.00 #link("https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link")[View Transcript]
+
+    - 21 Top Graduates of 2020
+
+    - #link("https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing")[International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)]
+
+    - #link("https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing")[TOEFL]
+
+  ],
+)
+
+#education-entry(
+  [
+    #strong[Smk Negeri 2 Penajam Paser Utara],  in Computer and Network Engineering
+
+  ],
+  [
+    Jan 2014 – Jan 2017
+
+  ],
+  main-column-second-row: [
+    - #link("https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing")[Certificate Competency]
+
+  ],
+)

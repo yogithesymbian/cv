@@ -1,0 +1,210 @@
+cv:
+  name: Yogi Arif Widodo
+  headline: AI Software Engineer | Specialize Android
+  location: Samarinda, Indonesia
+  email: ["yogiarifwidodo@icloud.com"]
+  phone: +62815-4577-8612
+  website: ["https://yogiveloper.com", "https://yogithesymbian.github.io"]
+  photo: photo-yogiarifwidodo.jpeg
+  social_networks:
+    - network: LinkedIn
+      username: yogi-arif-widodo
+  sections:
+    summary:
+      - "Over the past 9 years, I have specialized in digitalizing manual industries across global markets, including Japan, Australia, Poland and India. I’ve led large-scale transformations. most notably in maritime logistics. I architected high-availability systems that moved 200+ companies (including Schlumberger and Pertamina) to 100% paperless operations with consistent 24/7 uptime. After delivering 25+ real-world projects with a 100% client approval rate, I am now building autonomous AI products at Yocatetin using Multi-LLM architectures to automate data management globally."
+    Founder experience:
+      - company: Yocatetin Data Inteligensia
+        position: Founder & Lead Software Engineer
+        start_date: 2026-02
+        end_date: present
+        location: Indonesia
+        highlights:
+          - "Autonomous Operations & Commitment: Established and managed PT Yocatetin Data Inteligensia as an autonomous entity, allowing me to provide full professional commitment to tackling complex technical challenges within your organization."
+          - "Full-Cycle Ownership: Independently managing the complete business lifecycle, from legal establishment (NIB/NPWP) to technical architecture and global infrastructure deployment."
+          - "AI-Driven Innovation: Successfully launched two active global products (including YoCatetin) powered by Multi-LLM architecture to efficiently automate data management and media conversion."
+    Experience:
+      - company: Samatech Surabaya
+        position: Frontend Developer
+        start_date: 2023-11
+        end_date: 2025-08
+        location: Surabaya (Base Camp on Samarinda)
+        highlights:
+          - Contributed to & enhanced Samatech internal applications.
+          - Revitalized a client’s logistics company nearing closure by architecting a custom management system that digitized manual workflows and expanded operational capacity.
+    Freelance Experience:
+      - company: PT Sarana Abadi Lestari
+        position: Full-Stack Software Engineer
+        start_date: 2022-07
+        end_date: 2025-10
+        location: Indonesia
+        summary: I pioneered the digital shift for Port Services (BUP Public Terminal) by architecting a resilient high-availability ecosystem that has maintained consistent 24/7 uptime for over three years. By proactively stabilizing the infrastructure through a strategic migration to VULTR, I resolved initial bottlenecks, ensuring that any remaining issues are rare. By merging software engineering with IoT, I transformed heavy manual workflows into a streamlined, 100% paperless operation for a massive client base.
+        highlights:
+          - "Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management."
+          - "High-Stakes Collaboration: Partnered with major global and national tenants, including PT. Pertamina Patra Niaga (PATRA), PT. Triputra Energi Megatara (TEM), PT. Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback."
+          - "Enterprise Reliability: Built and maintained infrastructure currently used by 200+ companies, ensuring consistent performance and data integrity across VPS and IoT integration (Arduino/Raspberry Pi)."
+          - "100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100% alignment with client needs."
+      # - company: PT Sarana Abadi Lestari
+      #   position: Server Engineer
+      #   start_date: 2023-09
+      #   end_date: 2025-10
+      #   location: Indonesia
+      #   highlights:
+      #     - Managed and optimized server infrastructure to ensure high performance and security.
+      #     - Set up and maintained VPS environments, focusing on web server configuration.
+      #     - Applied best practices in server architecture utilizing cloud and CDN platforms.
+      # - company: PT Sarana Abadi Lestari
+      #   position: Full-Stack Software Engineer
+      #   start_date: 2024-09
+      #   end_date: 2024-10
+      #   location: Indonesia
+      #   summary: I played a pivotal role in enhancing visitor management systems through innovative software engineering.
+      #   highlights:
+      #     - Developed a secure QR code-based check-in/check-out feature, significantly improving user experience.
+      #     - Managed multiple projects, including guest tracking and messaging integrations, ensuring timely completion.
+      #     - Contributed to operational control and efficiency, reinforcing the company's commitment to security and service excellence.
+      # - company: PT Sarana Abadi Lestari
+      #   position: Full-Stack Software Engineer
+      #   start_date: 2022-07
+      #   end_date: 2022-11
+      #   location: Indonesia
+      #   highlights:
+      #     - Developed a real-time monitoring system for vehicle activities, enhancing logistics operations.
+      #     - Managed multiple projects, ensuring timely delivery and high client satisfaction.
+      #     - Designed a secure digital pass system to streamline check-in/out processes.
+      - company: PT. BEEMATA DEV
+        position: Flutter Developer
+        start_date: 2022-05
+        end_date: 2022-09
+        highlights:
+          - Built cross-platform attendance app for Japanese and Indonesian firms.
+          - Code reviewed by team lead.
+          - Integrated Google Maps API for tracking on iOS/Android.
+      - company: Bowindo
+        position: Flutter Developer
+        start_date: 2022-08
+        end_date: 2022-09
+        highlights:
+          - Improved UI with Figma and ChatGPT as Assistant
+          - Resolved QA bugs quickly, Iterated features via user feedback
+      - company: Remote Worker Indonesia
+        position: Flutter Developer
+        start_date: 2022-08
+        end_date: 2022-08
+        highlights:
+          - Developed pesticide info app
+          - focusing on UI/UX and API integration.
+    Career Experience:
+      - company: PT INDEKS MEDIA TEKNOLOGI
+        position: Co-Founder
+        start_date: 2020-12
+        end_date: 2022-05
+        location: Samarinda
+        highlights:
+          - "Co-founded tech startup; Chief Technology Officer; Head of Mobile Development; led 5+ projects."
+          - Developed systems multiple global country; expanded team to 11.
+          - Improved 21-years-old systems, reduced Oracle query time to 1-15 sec.
+          - "Notable Projects: Tokyo Construction (JPN), Australia Payment Gateway (Auspost), Poland Gallery."
+    Undergraduate Experience:
+      - company: Digital Talent Scholarship
+        position: Instructor Junior Mobile Programmer
+        start_date: 2019-11
+        end_date: 2019-11
+        location: Samarinda
+        highlights:
+          - "[Led a project for SMK and university students, earned certifications.](https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing)"
+          - Found SMK students needed algorithm knowledge, explained using Android Studio.
+      - company: CV. PAULFEN MANDIRI
+        position: Android Developer
+        start_date: 2019-07
+        end_date: 2019-09
+        location: Samarinda
+        highlights:
+          - Developing a native Android app.
+          - Company offer me to join company.
+    Founder Experience:
+      - company: SCODEID
+        position: Founder & Software Engineer
+        start_date: 2017-03
+        end_date: 2026-01
+        location: Indonesia
+        highlights:
+          - Founded SCODEID (not yet registered), a tech brand focused on delivering custom IT solutions.
+          - Successfully completed over 10 freelance projects for multiple global client.
+          - Developed innovative software solutions tailored to meet diverse client needs.
+          - "Notable Projects: Leave Apps & Attendance System (JPN), Technical SDK Consultancy (IND), 10+ Multi-Industry Projects (INA), [First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing)"
+    Undergraduate experience:
+      - company: PT. PELABUHAN PENAJAM BENUA TAKA
+        position: Network Engineer
+        start_date: 2016-01
+        end_date: 2016-04
+        location: Penajam Paser Utara
+        highlights:
+          - Network setup Marine Tower & maintenance, routers, access points, IT support
+          - "[PKL/Prakerin, Jetty CCTV System, Ubiquity, MikroTik, Cisco](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)"
+    projects:
+      - name: Construction Building Tokyo Japan
+        start_date: 2020-12
+        end_date: 2021-01
+        summary: "Rebuild old desktop app (that's already running more than 20 years app) into Modern Website Using Laravue with Element Ul Starter Pack and There is had 200+ screen design on Figma. Using multiple database connection (ISO, GHG, JIS) MySQL and Oracle 12C. Optimized query response time from 15 minutes to seconds. Translated Flow & Language into Japan."
+    skills:
+      - label: Languages
+        details: English (Advanced), Indonesian (Proficient), JAPAN (Beginner)
+      - label: Technical Assessment
+        details: "[News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & Ul tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building Ul with Flutter Riverpod as State Management, Applying Clean Architecture Using DDD for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, Bloc, Getx, Riverpod, DDD Patern)"
+    certifications:
+      - name: ""
+        summary: "[Google Certification Skill - Artificial Intelligence](https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170)"
+        issuer: Google
+      - name: ""
+        summary: "[Belajar Penggunaan Generative Al](https://www.dicoding.com/certificates/JMZVEK8O3PN9)"
+        issuer: Dicoding Academy
+      - name: ""
+        summary: "[Alibaba Cloud - Big Data: A Quick Guide to Process Structured Data](https://drive.google.com/file/d/1c38A88M9TRTK7biA0X7UBDbnE20NzzBl/view?usp=sharing)"
+        issuer: Alibaba Cloud
+      - name: ""
+        summary: "[Oracle Database Foundation](https://drive.google.com/file/d/1tGqwIXZG6R4-qkSInz_YF6FBAjvMyYMl/view?usp=sharing)"
+        issuer: Oracle
+      - name: ""
+        summary: "[Dicoding - Kotlin Android Developer Expert](https://drive.google.com/file/d/12uY-jkKY0PWYGZ94ueuuRyHSNcvO3WNa/view?usp=sharing)"
+        issuer: Dicoding
+      - name: ""
+        summary: "[Indonesian Professional Certification Authority - Programming and Software Development](https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing)"
+        issuer: Dicoding
+      - name: ""
+        summary: "[Udemy - The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/)"
+        issuer: Udemy
+      - name: ""
+        summary: "[Udemy- Fifteen Great CTO Leadership Hacks](https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/)"
+        issuer: Udemy
+    competition:
+      - name: ""
+        summary: "[The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau](https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing)"
+        date: 2020-09
+      - name: ""
+        summary: "[Bali Startup Camp Held at STMIK Primakara Denpasar](https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing)"
+        date: 2019-12
+      - name: ""
+        summary: "[Samarinda Hackathon 2.0](https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing)"
+        date: 2019-08
+    education:
+      - institution: Politeknik Negeri Samarinda
+        area: Technic Informatic
+        degree: A.Md.Kom
+        start_date: 2017-11
+        end_date: 2020-11
+        gpa: "3.91"
+        location: "Samarinda, Indonesia"
+        summary:
+        highlights:
+          - "GPA: 3.91/4.00 [View Transcript](https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link)"
+          - "21 Top Graduates of 2020"
+          - "[International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)](https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing)"
+          - "[TOEFL](https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing)"
+      - institution: Smk Negeri 2 Penajam Paser Utara
+        area: Computer and Network Engineering
+        start_date: 2014-01
+        end_date: 2017-01
+        highlights:
+          - "[Certificate Competency](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing)"
+design:
+  theme: engineeringresumes
