@@ -8,9 +8,9 @@
 
 
 # Summary
-Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
+Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN, and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
 
-# Founder experience
+# Experience
 ## **Founder & Software Engineer**, Yocatetin Data Inteligensia -- Indonesia
 
 Feb 2026 – present
@@ -23,7 +23,6 @@ Feb 2026 – present
 
 
 
-# Career experience
 ## **Frontend Developer (Contract)**, PT Sama Teknologi Indonesia (Samatech) -- Surabaya
 
 Nov 2023 – Aug 2025
@@ -34,8 +33,7 @@ Nov 2023 – Aug 2025
 
 
 
-# Freelance experience
-## **Full-Stack Software Engineer (Contract)**, PT Sarana Abadi Lestari (SAL) -- Indonesia
+## **Full-Stack Software Engineer (Freelance/Contract)**, PT Sarana Abadi Lestari (SAL) -- Indonesia
 
 July 2022 – Oct 2025
 
@@ -49,7 +47,7 @@ Architected and deployed 100% paperless systems for a massive maritime Port Busi
 
 
 
-## **Flutter Developer (Contract)**, PT BEEMATA DEV -- Indonesia
+## **Flutter Developer (Freelance)**, PT BEEMATA DEV -- Indonesia
 
 May 2022 – Sept 2022
 
@@ -61,7 +59,7 @@ May 2022 – Sept 2022
 
 
 
-## **Flutter Developer (Contract)**, Bowindo -- Indonesia
+## **Flutter Developer (Freelance)**, Bowindo -- Indonesia
 
 Aug 2022 – Sept 2022
 
@@ -73,7 +71,7 @@ Aug 2022 – Sept 2022
 
 
 
-## **Flutter Developer (Contract)**, Remote Worker Indonesia
+## **Flutter Developer (Freelance)**, Remote Worker Indonesia
 
 Aug 2022 – Aug 2022
 
@@ -83,7 +81,6 @@ Aug 2022 – Aug 2022
 
 
 
-# Career Experience
 ## **Co-Founder (Full-Time)**, PT INDEKS MEDIA TEKNOLOGI -- Samarinda
 
 Dec 2020 – May 2022
@@ -98,8 +95,7 @@ Dec 2020 – May 2022
 
 
 
-# Undergraduate Experience
-## **Instructor Junior Mobile Programmer**, Digital Talent Scholarship -- Politeknik Negeri Samarinda
+## **Instructor Junior Mobile Programmer (Undergraduate Experience)**, Digital Talent Scholarship -- Politeknik Negeri Samarinda
 
 Nov 2019 – Nov 2019
 
@@ -117,7 +113,6 @@ July 2019 – Sept 2019
 
 
 
-# Founder Experience
 ## **Founder & Software Engineer**, SCODEID -- Indonesia
 
 Mar 2017 – Jan 2026
@@ -132,7 +127,6 @@ Mar 2017 – Jan 2026
 
 
 
-# Undergraduate experience
 ## **Network Engineer | Praktek Kerja Lapangan (PKL)**, PT PELABUHAN PENAJAM BENUA TAKA (eastkal supply base) -- Penajam
 
 Jan 2016 – Apr 2016

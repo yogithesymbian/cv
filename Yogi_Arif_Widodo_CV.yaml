@@ -11,8 +11,8 @@ cv:
       username: yogi-arif-widodo
   sections:
     summary:
-      - "Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management."
-    Founder experience:
+      - "Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN, and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management."
+    experience:
       - company: Yocatetin Data Inteligensia
         position: Founder & Software Engineer
         start_date: 2026-02
@@ -24,7 +24,6 @@ cv:
           - "End-to-End Ownership"
           - "International Operations"
             # Managing the complete business lifecycle, from legal establishment to technical architecture and global infrastructure deployment.
-    Career experience:
       - company: PT Sama Teknologi Indonesia (Samatech)
         position: Frontend Developer (Contract)
         start_date: 2023-11
@@ -33,9 +32,8 @@ cv:
         highlights:
           - Contributed to Samatech internal applications.
           - Revitalized a client’s logistics company nearing closure by architecting a custom management system that digitized manual workflows and expanded operational capacity.
-    Freelance experience:
       - company: PT Sarana Abadi Lestari (SAL)
-        position: Full-Stack Software Engineer (Contract)
+        position: Full-Stack Software Engineer (Freelance/Contract)
         start_date: 2022-07
         end_date: 2025-10
         location: Indonesia
@@ -46,7 +44,7 @@ cv:
           - "100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100% alignment with client needs."
           - "Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term growth contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management."
       - company: PT BEEMATA DEV
-        position: Flutter Developer (Contract)
+        position: Flutter Developer (Freelance)
         start_date: 2022-05
         end_date: 2022-09
         location: Indonesia
@@ -55,7 +53,7 @@ cv:
           - Ensured high code quality standards through rigorous peer and team lead reviews.
           - Integrated Google Maps API for tracking on iOS/Android.
       - company: Bowindo
-        position: Flutter Developer (Contract)
+        position: Flutter Developer (Freelance)
         start_date: 2022-08
         end_date: 2022-09
         location: Indonesia
@@ -64,13 +62,12 @@ cv:
           - Leveraged AI tools like ChatGPT to accelerate the development and debugging cycles.
           - Resolved QA bugs quickly and iterated on features based on user feedback.
       - company: Remote Worker Indonesia
-        position: Flutter Developer (Contract)
+        position: Flutter Developer (Freelance)
         start_date: 2022-08
         end_date: 2022-08
         highlights:
           - Developed [pesticide](https://play.google.com/store/apps/details?id=com.pestisida.simpes) info app
           - Enhanced UI/UX for legacy systems and integrated external APIs.
-    Career Experience:
       - company: PT INDEKS MEDIA TEKNOLOGI
         position: Co-Founder (Full-Time)
         start_date: 2020-12
@@ -81,9 +78,8 @@ cv:
           - Collaborated with two N2-certified Japanese translators and one English translator to localize system flows and UI copy.
           - Developed systems for clients across multiple countries and scaled the engineering team from 2 to 11 members.
           - "Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery."
-    Undergraduate Experience:
       - company: Digital Talent Scholarship
-        position: Instructor Junior Mobile Programmer
+        position: Instructor Junior Mobile Programmer (Undergraduate Experience)
         start_date: 2019-11
         end_date: 2019-11
         location: Politeknik Negeri Samarinda
@@ -97,7 +93,6 @@ cv:
         location: Samarinda
         highlights:
           - Developed a native Android groceries app using Java and Kotlin, demonstrating Kotlin's conciseness and seamless interoperability within a single codebase.
-    Founder Experience:
       - company: SCODEID
         position: Founder & Software Engineer
         start_date: 2017-03
@@ -108,7 +103,6 @@ cv:
           - Successfully completed over 10 freelance projects for multiple global clients.
           - "[First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing)."
           - "Technical SDK Consultancy (IN), 10+ Multi-Industry Projects (ID)"
-    Undergraduate experience:
       - company: PT PELABUHAN PENAJAM BENUA TAKA (eastkal supply base)
         position: Network Engineer | Praktek Kerja Lapangan (PKL)
         start_date: 2016-01

@@ -98,9 +98,9 @@
 
 == Summary
 
-Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
+Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN, and ID. Rebuilt a 20-year-old Japanese legacy construction application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
 
-== Founder experience
+== Experience
 
 #regular-entry(
   [
@@ -121,8 +121,6 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
   ],
 )
 
-== Career experience
-
 #regular-entry(
   [
     #strong[Frontend Developer (Contract)], PT Sama Teknologi Indonesia (Samatech) -- Surabaya
@@ -140,11 +138,9 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
   ],
 )
 
-== Freelance experience
-
 #regular-entry(
   [
-    #strong[Full-Stack Software Engineer (Contract)], PT Sarana Abadi Lestari (SAL) -- Indonesia
+    #strong[Full-Stack Software Engineer (Freelance\/Contract)], PT Sarana Abadi Lestari (SAL) -- Indonesia
 
   ],
   [
@@ -165,7 +161,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
 
 #regular-entry(
   [
-    #strong[Flutter Developer (Contract)], PT BEEMATA DEV -- Indonesia
+    #strong[Flutter Developer (Freelance)], PT BEEMATA DEV -- Indonesia
 
   ],
   [
@@ -184,7 +180,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
 
 #regular-entry(
   [
-    #strong[Flutter Developer (Contract)], Bowindo -- Indonesia
+    #strong[Flutter Developer (Freelance)], Bowindo -- Indonesia
 
   ],
   [
@@ -203,7 +199,7 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
 
 #regular-entry(
   [
-    #strong[Flutter Developer (Contract)], Remote Worker Indonesia
+    #strong[Flutter Developer (Freelance)], Remote Worker Indonesia
 
   ],
   [
@@ -217,8 +213,6 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
 
   ],
 )
-
-== Career Experience
 
 #regular-entry(
   [
@@ -241,11 +235,9 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
   ],
 )
 
-== Undergraduate Experience
-
 #regular-entry(
   [
-    #strong[Instructor Junior Mobile Programmer], Digital Talent Scholarship -- Politeknik Negeri Samarinda
+    #strong[Instructor Junior Mobile Programmer (Undergraduate Experience)], Digital Talent Scholarship -- Politeknik Negeri Samarinda
 
   ],
   [
@@ -275,8 +267,6 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
   ],
 )
 
-== Founder Experience
-
 #regular-entry(
   [
     #strong[Founder & Software Engineer], SCODEID -- Indonesia
@@ -297,8 +287,6 @@ Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, IN and ID. R
 
   ],
 )
-
-== Undergraduate experience
 
 #regular-entry(
   [
