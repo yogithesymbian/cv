@@ -83,16 +83,9 @@
 )
 
 
-#grid(
-  columns: (auto, 1fr),
-  column-gutter: 0cm,
-  align: horizon + left,
-  [#pad(left: 0.4cm, right: 0.4cm, image("photo-yogiarifwidodo.jpeg", width: 3.5cm))
-],
-  [
 = Yogi Arif Widodo
 
-  #headline([Software Engineer | Specialize Android | AI Enthusiast])
+  #headline([Software Engineer | Specialize Android])
 
 #connections(
   [Samarinda, Indonesia],
@@ -101,13 +94,11 @@
   [#link("https://github.com/yogithesymbian", icon: false, if-underline: false, if-color: false)[github.com\/yogithesymbian]],
   [#link("https://linkedin.com/in/yogi-arif-widodo", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/yogi-arif-widodo]],
 )
-  ]
-)
 
 
 == Summary
 
-Over the past 9 years, I have specialized in digitalizing manual industries across global markets, including Japan, Australia, Poland and India. I’ve led large-scale transformations. most notably in maritime logistics. I architected high-availability systems that moved 200+ companies (including Schlumberger and Pertamina) to 100\% paperless operations with consistent 24\/7 uptime. After delivering 25+ real-world projects with a 100\% client approval rate, I am now building autonomous AI products at Yocatetin using Multi-LLM architectures to efficiently automate data management globally.
+Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebuilt a 20-yr Construction Building Tokyo Japanese legacy app and scaled teams from 2 to 11. Optimized DBs from 15m to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management
 
 == Founder experience
 
@@ -121,11 +112,11 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    - Autonomous International Operations & Commitment
-
-    - Full-Cycle Ownership
-
     - AI-Driven Innovation
+
+    - End-to-End Ownership
+
+    - International Operations
 
   ],
 )
@@ -134,7 +125,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Frontend Developer], Samatech -- Surabaya (Base Camp on Samarinda)
+    #strong[Frontend Developer (Contract)], PT Sama Teknologi Indonesia (Samatech) -- Surabaya
 
   ],
   [
@@ -142,7 +133,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    - Contributed to & enhanced Samatech internal applications.
+    - Contributed to Samatech internal applications.
 
     - Revitalized a client’s logistics company nearing closure by architecting a custom management system that digitized manual workflows and expanded operational capacity.
 
@@ -153,7 +144,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Full-Stack Software Engineer], PT Sarana Abadi Lestari -- Indonesia
+    #strong[Full-Stack Software Engineer (Contract)], PT Sarana Abadi Lestari (SAL) -- Indonesia
 
   ],
   [
@@ -161,20 +152,20 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    #summary[100\% paperless operation for a massive client base.]
+    #summary[Architected and deployed 100\% paperless systems for a massive maritime Port Business Entity]
 
-    - High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback.
+    - High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on feedback.
 
     - 100\% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100\% alignment with client needs.
 
-    - Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term 'growth' contracts initiate by client since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management.
+    - Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term growth contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management.
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Flutter Developer], PT BEEMATA DEV -- Indonesia
+    #strong[Flutter Developer (Contract)], PT BEEMATA DEV -- Indonesia
 
   ],
   [
@@ -193,7 +184,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Flutter Developer], Bowindo -- Indonesia
+    #strong[Flutter Developer (Contract)], Bowindo -- Indonesia
 
   ],
   [
@@ -210,7 +201,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Flutter Developer], Remote Worker Indonesia
+    #strong[Flutter Developer (Contract)], Remote Worker Indonesia
 
   ],
   [
@@ -229,7 +220,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #regular-entry(
   [
-    #strong[Co-Founder], PT INDEKS MEDIA TEKNOLOGI -- Samarinda
+    #strong[Co-Founder (Full-Time)], PT INDEKS MEDIA TEKNOLOGI -- Samarinda
 
   ],
   [
@@ -237,7 +228,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
   ],
   main-column-second-row: [
-    - Rebuild old desktop apps \"Construction Building Tokyo Japan\" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japan name on every column thats i got result response time from 15 minutes to seconds.
+    - Rebuild old desktop apps \"Construction Building Tokyo Japan\" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japanese name on every column thats i got result response time from 15 minutes to seconds.
 
     - Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
 
@@ -328,7 +319,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
 #strong[Languages:] English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
 
-#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, BloC, Getx, Riverpod, Domain-Driven Design (DDD Patern)
+#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, BloC, Getx, Riverpod, Domain-Driven Design (DDD Patern). OpenAI API, Vertex AI
 
 == Certifications
 
@@ -468,7 +459,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
 
     - #link("https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing")[International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)]
 
-    - #link("https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing")[TOEFL]
+    - #link("https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing")[TOEFL Score 427]
 
   ],
 )
@@ -485,7 +476,7 @@ Over the past 9 years, I have specialized in digitalizing manual industries acro
   main-column-second-row: [
     #summary[During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks. I also explored programming with Pascal and HTML. In my free time, I taught myself VB.NET, going beyond the standard school curriculum.]
 
-    - #link("https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing")[Certificate Competency]
+    - #link("https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing")[Certificate Competency on Networking Engineer]
 
   ],
 )

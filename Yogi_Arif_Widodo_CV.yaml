@@ -1,17 +1,17 @@
 cv:
   name: Yogi Arif Widodo
-  headline: Software Engineer | Specialize Android | AI Enthusiast
+  headline: Software Engineer | Specialize Android
   location: Samarinda, Indonesia
   email: ["yogiarifwidodo@icloud.com"]
   phone: +62815-4577-8612
   website: ["https://github.com/yogithesymbian"]
-  photo: photo-yogiarifwidodo.jpeg
+  # photo: photo-yogiarifwidodo.jpeg
   social_networks:
     - network: LinkedIn
       username: yogi-arif-widodo
   sections:
     summary:
-      - "Over the past 9 years, I have specialized in digitalizing manual industries across global markets, including Japan, Australia, Poland and India. I’ve led large-scale transformations. most notably in maritime logistics. I architected high-availability systems that moved 200+ companies (including Schlumberger and Pertamina) to 100% paperless operations with consistent 24/7 uptime. After delivering 25+ real-world projects with a 100% client approval rate, I am now building autonomous AI products at Yocatetin using Multi-LLM architectures to efficiently automate data management globally."
+      - "Software Engineer (9 yrs) digitalizing industries in Japan, AU, PL, and IN. Rebuilt a 20-yr Construction Building Tokyo Japanese legacy app and scaled teams from 2 to 11. Optimized DBs from 15m to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management"
     Founder experience:
       - company: Yocatetin Data Inteligensia
         position: Founder & Software Engineer
@@ -20,61 +20,33 @@ cv:
         location: Indonesia
         # summary: "Autonomous Operations & Commitment: Established and managed PT Yocatetin Data Inteligensia as an autonomous entity, allowing me to provide full professional commitment to tackling complex technical challenges within your organization."
         highlights:
-          - "Autonomous International Operations & Commitment"
-          - "Full-Cycle Ownership"
-            # Managing the complete business lifecycle, from legal establishment to technical architecture and global infrastructure deployment.
           - "AI-Driven Innovation"
+          - "End-to-End Ownership"
+          - "International Operations"
+            # Managing the complete business lifecycle, from legal establishment to technical architecture and global infrastructure deployment.
     Career experience:
-      - company: Samatech
-        position: Frontend Developer
+      - company: PT Sama Teknologi Indonesia (Samatech)
+        position: Frontend Developer (Contract)
         start_date: 2023-11
         end_date: 2025-08
-        location: Surabaya (Base Camp on Samarinda)
+        location: Surabaya
         highlights:
-          - Contributed to & enhanced Samatech internal applications.
+          - Contributed to Samatech internal applications.
           - Revitalized a client’s logistics company nearing closure by architecting a custom management system that digitized manual workflows and expanded operational capacity.
     Freelance Experience:
-      - company: PT Sarana Abadi Lestari
-        position: Full-Stack Software Engineer
+      - company: PT Sarana Abadi Lestari (SAL)
+        position: Full-Stack Software Engineer (Contract)
         start_date: 2022-07
         end_date: 2025-10
         location: Indonesia
-        summary: 100% paperless operation for a massive client base.
+        summary: "Architected and deployed 100% paperless systems for a massive maritime Port Business Entity"
         highlights:
-          - "High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on direct feedback."
+          - "High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on feedback."
           # - "Enterprise Reliability: Built and maintained infrastructure currently used by 200+ companies, ensuring consistent performance and data integrity across VPS and IoT integration."
           - "100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100% alignment with client needs."
-          - "Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term 'growth' contracts initiate by client since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management."
-      # - company: PT Sarana Abadi Lestari
-      #   position: Server Engineer
-      #   start_date: 2023-09
-      #   end_date: 2025-10
-      #   location: Indonesia
-      #   highlights:
-      #     - Managed and optimized server infrastructure to ensure high performance and security.
-      #     - Set up and maintained VPS environments, focusing on web server configuration.
-      #     - Applied best practices in server architecture utilizing cloud and CDN platforms.
-      # - company: PT Sarana Abadi Lestari
-      #   position: Full-Stack Software Engineer
-      #   start_date: 2024-09
-      #   end_date: 2024-10
-      #   location: Indonesia
-      #   summary: I played a pivotal role in enhancing visitor management systems through innovative software engineering.
-      #   highlights:
-      #     - Developed a secure QR code-based check-in/check-out feature, significantly improving user experience.
-      #     - Managed multiple projects, including guest tracking and messaging integrations, ensuring timely completion.
-      #     - Contributed to operational control and efficiency, reinforcing the company's commitment to security and service excellence.
-      # - company: PT Sarana Abadi Lestari
-      #   position: Full-Stack Software Engineer
-      #   start_date: 2022-07
-      #   end_date: 2022-11
-      #   location: Indonesia
-      #   highlights:
-      #     - Developed a real-time monitoring system for vehicle activities, enhancing logistics operations.
-      #     - Managed multiple projects, ensuring timely delivery and high client satisfaction.
-      #     - Designed a secure digital pass system to streamline check-in/out processes.
+          - "Strategic Project Management: Managed the end-to-end lifecycle of 17+ long-term growth contracts since 2022, architecting three critical real-time monitoring platforms: Land Route, River Route, and Visitor Management."
       - company: PT BEEMATA DEV
-        position: Flutter Developer
+        position: Flutter Developer (Contract)
         start_date: 2022-05
         end_date: 2022-09
         location: Indonesia
@@ -83,7 +55,7 @@ cv:
           - Code reviewed by team lead.
           - Integrated Google Maps API for tracking on iOS/Android.
       - company: Bowindo
-        position: Flutter Developer
+        position: Flutter Developer (Contract)
         start_date: 2022-08
         end_date: 2022-09
         location: Indonesia
@@ -91,7 +63,7 @@ cv:
           - Improved UI with Figma and ChatGPT as Assistant
           - Resolved QA bugs quickly, Iterated features via user feedback
       - company: Remote Worker Indonesia
-        position: Flutter Developer
+        position: Flutter Developer (Contract)
         start_date: 2022-08
         end_date: 2022-08
         highlights:
@@ -99,12 +71,12 @@ cv:
           - focusing on UI/UX and API integration.
     Career Experience:
       - company: PT INDEKS MEDIA TEKNOLOGI
-        position: Co-Founder
+        position: Co-Founder (Full-Time)
         start_date: 2020-12
         end_date: 2022-05
         location: Samarinda
         highlights:
-          - Rebuild old desktop apps "Construction Building Tokyo Japan" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japan name on every column thats i got result response time from 15 minutes to seconds.
+          - Rebuild old desktop apps "Construction Building Tokyo Japan" that's already running more than 20 years app into Modern Website which is more than +200 Figma Design and a lot of FlowChart. Optimized query MySQL & Oracle 12c thats using japanese name on every column thats i got result response time from 15 minutes to seconds.
           - Translated Flow & Language into Japanese Collaborating with by two N2-certified translators and 1 English Translator.
           - Developed systems multiple global country; expanded team from 2 to 11 members.
           - "Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery."
@@ -148,7 +120,7 @@ cv:
       - label: Languages
         details: English (Intermediate), Indonesian (Proficient), JAPAN (Beginer)
       - label: Technical Assessment
-        details: "[News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, BloC, Getx, Riverpod, Domain-Driven Design (DDD Patern)"
+        details: "[News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building Ul with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. more technical assessment on my portfolio: Enhance & Improve Project Any Language, Kotlin, Flutter (Provider, BloC, Getx, Riverpod, Domain-Driven Design (DDD Patern). OpenAI API, Vertex AI"
     certifications:
       - name: ""
         summary: "[Google Certification Skill - Artificial Intelligence](https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170)"
@@ -194,13 +166,13 @@ cv:
           - "GPA: 3.91/4.00 [View Transcript](https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link)"
           - "21 Top Graduates of 2020"
           - "[International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)](https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing)"
-          - "[TOEFL](https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing)"
+          - "[TOEFL Score 427](https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing)"
       - institution: Smk Negeri 2 Penajam Paser Utara
         area: Computer and Network Engineering
         start_date: 2014-01
         end_date: 2017-01
         summary: "During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks. I also explored programming with Pascal and HTML. In my free time, I taught myself VB.NET, going beyond the standard school curriculum."
         highlights:
-          - "[Certificate Competency](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing)"
+          - "[Certificate Competency on Networking Engineer](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing)"
 design:
   theme: engineeringresumes
