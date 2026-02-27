@@ -39,7 +39,7 @@ Architected, deployed, and managed both application architecture and server infr
 
 - High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB) to digitalize complex maritime workflows, achieving a perfect 100% project acceptance rate.
 
-- Full-Stack Engineering (Node.js, Rust Egui, Vue.js & IoT): Led the end-to-end development of 3 critical real-time monitoring platforms (Vehicle Land Route, River Route, and Secure Digital Pass/Visitor Management), securing 17+ client-initiated growth contracts.
+- Full-Stack Engineering (Node.js, Rust Egui, Vue.js, Flutter & IoT): Led the end-to-end development of 3 critical real-time monitoring platforms (Vehicle Land Route, River Route, and Secure Digital Pass/Visitor Management), securing 17+ client-initiated growth contracts.
 
 - Server Infrastructure & Observability: Set up and managed VPS environments (Vultr) alongside Cloud/CDN platforms. Engineered a fault-tolerant server architecture utilizing Redis, PM2, and Sentry for robust process management and proactive error tracking, guaranteeing high performance and strict 24/7 system uptime.
 
@@ -81,15 +81,15 @@ Dec 2020 – May 2022
 
 - Rebuilt a 20-year-old Japanese legacy desktop application into a modern web platform, utilizing over 200 Figma designs and comprehensive flowcharts. Optimized complex MySQL and Oracle 12c queries across databases featuring Japanese column names, drastically reducing response times from 15 minutes to seconds.
 
-- Collaborated with two N2-certified Japanese translators and one English translator to build and integrate multilingual support into the system.
-
 - Developed systems for clients across multiple countries and scaled the engineering team from 2 to 11 members.
+
+- Collaborated with two N2-certified Japanese translators and one English translator to build and integrate multilingual support into the system.
 
 - Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery.
 
 
 
-## **Instructor Junior Mobile Programmer (Undergraduate Experience)**, Digital Talent Scholarship -- Politeknik Negeri Samarinda
+## **Instructor Junior Mobile Programmer**, Digital Talent Scholarship -- POLNES
 
 Nov 2019 – Nov 2019
 
@@ -121,11 +121,11 @@ Mar 2017 – Jan 2026
 
 
 
-## **Network Engineer | Praktek Kerja Lapangan (PKL)**, PT PELABUHAN PENAJAM BENUA TAKA (eastkal supply base) -- Penajam
+## **Network Engineer | Praktek Kerja Lapangan (PKL)**, Eastkal Supply Base -- Penajam
 
 Jan 2016 – Apr 2016
 
-- Performed network setup and maintenance for Marine Tower, including routers, access points, and general IT support.
+- Performed network setup and maintenance for Marine Tower and general IT support
 
 - [Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
 

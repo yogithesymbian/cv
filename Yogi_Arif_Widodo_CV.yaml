@@ -37,7 +37,7 @@ cv:
         summary: "Architected, deployed, and managed both application architecture and server infrastructure for a 100% paperless maritime Port Business Entity (BUP) ecosystem."
         highlights:
           - "High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB) to digitalize complex maritime workflows, achieving a perfect 100% project acceptance rate."
-          - "Full-Stack Engineering (Node.js, Rust Egui, Vue.js & IoT): Led the end-to-end development of 3 critical real-time monitoring platforms (Vehicle Land Route, River Route, and Secure Digital Pass/Visitor Management), securing 17+ client-initiated growth contracts."
+          - "Full-Stack Engineering (Node.js, Rust Egui, Vue.js, Flutter & IoT): Led the end-to-end development of 3 critical real-time monitoring platforms (Vehicle Land Route, River Route, and Secure Digital Pass/Visitor Management), securing 17+ client-initiated growth contracts."
           - "Server Infrastructure & Observability: Set up and managed VPS environments (Vultr) alongside Cloud/CDN platforms. Engineered a fault-tolerant server architecture utilizing Redis, PM2, and Sentry for robust process management and proactive error tracking, guaranteeing high performance and strict 24/7 system uptime."
       - company: Bowindo
         position: Flutter Developer (Freelance)
@@ -49,8 +49,8 @@ cv:
           - Utilizing AI developer tools (such as ChatGPT) as a coding assistant.
       - company: Remote Worker Indonesia
         position: Flutter Developer (Freelance)
-        start_date: 2022-08
-        end_date: 2022-08
+        start_date: 2022-08-01
+        end_date: 2022-08-02
         highlights:
           - Enhanced UI/UX [pesticide](https://play.google.com/store/apps/details?id=com.pestisida.simpes) info app for legacy systems and integrated external APIs.
       - company: PT BEEMATA DEV
@@ -69,14 +69,14 @@ cv:
         location: Samarinda
         highlights:
           - Rebuilt a 20-year-old Japanese legacy desktop application into a modern web platform, utilizing over 200 Figma designs and comprehensive flowcharts. Optimized complex MySQL and Oracle 12c queries across databases featuring Japanese column names, drastically reducing response times from 15 minutes to seconds.
-          - Collaborated with two N2-certified Japanese translators and one English translator to build and integrate multilingual support into the system.
           - Developed systems for clients across multiple countries and scaled the engineering team from 2 to 11 members.
+          - Collaborated with two N2-certified Japanese translators and one English translator to build and integrate multilingual support into the system.
           - "Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery."
       - company: Digital Talent Scholarship
-        position: Instructor Junior Mobile Programmer (Undergraduate Experience)
+        position: Instructor Junior Mobile Programmer
         start_date: 2019-11
         end_date: 2019-11
-        location: Politeknik Negeri Samarinda
+        location: POLNES
         highlights:
           - "[Led a project for SMK and university students, earned certifications.](https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing)"
           - Identified a need for foundational algorithm knowledge among SMK students and provided hands-on instruction using Android Studio.
@@ -97,13 +97,13 @@ cv:
           - Successfully completed over 10 freelance projects for multiple global clients.
           - "[First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing)."
           - "Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia)"
-      - company: PT PELABUHAN PENAJAM BENUA TAKA (eastkal supply base)
+      - company: Eastkal Supply Base
         position: Network Engineer | Praktek Kerja Lapangan (PKL)
         start_date: 2016-01
         end_date: 2016-04
         location: "Penajam"
         highlights:
-          - Performed network setup and maintenance for Marine Tower, including routers, access points, and general IT support.
+          - Performed network setup and maintenance for Marine Tower and general IT support
           - "[Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)"
     skills:
       - label: Languages
