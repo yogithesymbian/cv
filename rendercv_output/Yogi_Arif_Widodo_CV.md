@@ -8,54 +8,40 @@
 
 
 # Summary
-Result-driven Software Engineer with 9 years of end-to-end software development experience (including independent consultancy and enterprise roles) and driving digital transformation for global clients across Japan, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Proven track record in the maritime port sector (BUP), successfully migrating 200+ enterprises (including Schlumberger and Pertamina) to 100% paperless ecosystems with 24/7 uptime and a 100% project approval rate. Deeply experienced in modern software design, cloud infrastructure, and currently building an autonomous Multi-LLM AI platform at Yocatetin to revolutionize global data management.
+Result-driven Software Engineer with 9 years of end-to-end software development experience (including independent consultancy and enterprise roles) and driving digital transformation for global clients across Japan, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Proven track record in the maritime port sector (BUP), successfully migrating 200+ enterprises (including Schlumberger and Pertamina) to 100% paperless ecosystems with 24/7 uptime and a 100% project approval rate. Currently building an autonomous Multi-LLM AI platform at Yocatetin for zero-touch platform.
 
 # Experience
 ## **Founder & Software Engineer**, Yocatetin Data Inteligensia -- Indonesia
 
 Feb 2026 – present
 
-- Architecting an autonomous Multi-LLM platform for global data workflow automation.
+- Architecting an autonomous Multi-LLM platform and Designed to process without manual intervention
 
-- Designing scalable GCP & AWS infrastructure and integrating advanced AI APIs into the core system.
-
-- Automating technical operations to ensure continuous, zero-touch platform reliability.
+- Scalable GCP & AWS infrastructure and Integrating advanced AI APIs into the core system to ensure continuous.
 
 
 
-## **Frontend Developer (Contract)**, PT Sama Teknologi Indonesia (Samatech) -- Surabaya
+## **Frontend Developer (Contract)**, Samatech -- Surabaya
 
 Nov 2023 – Aug 2025
 
-- Contributed to the UI implementation Maintenance and bug resolution for Samatech’s internal applications.
+- Maintenance and bug resolution for Samatech internal applications.
 
-- Developed the frontend interfaces for a logistics client's custom management system, supporting the digitization of their manual workflows.
+- Built a custom management system for Revitalized a logistics client's with digitization their manual workflows.
 
 
 
-## **Full-Stack Software Engineer (Freelance/Contract)**, PT Sarana Abadi Lestari (SAL) -- Indonesia
+## **Senior Full-Stack & Server Engineer**, PT Sarana Abadi Lestari (SAL) -- Indonesia
 
 July 2022 – Oct 2025
 
-Architected and deployed 100% paperless systems for a massive maritime Port Business Entity
+Architected, deployed, and managed both application architecture and server infrastructure for a 100% paperless maritime Port Business Entity (BUP) ecosystem.
 
-- High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on feedback.
+- High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB) to digitalize complex maritime workflows, achieving a perfect 100% project acceptance rate.
 
-- 100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured alignment with client needs.
+- Full-Stack Engineering (Node.js, Rust Egui, Vue.js & IoT): Led the end-to-end development of 3 critical real-time monitoring platforms (Vehicle Land Route, River Route, and Secure Digital Pass/Visitor Management), securing 17+ client-initiated growth contracts.
 
-- Led the end-to-end engineering and strategic rollout of 3 critical real-time monitoring platforms (Land Route, River Route, Visitor Management), securing 17+ long-term growth contracts initiate by clients
-
-
-
-## **Flutter Developer (Freelance)**, PT BEEMATA DEV -- Indonesia
-
-May 2022 – Sept 2022
-
-- Built a cross-platform attendance app for Japanese and Indonesian firms.
-
-- Ensured high code quality standards through rigorous peer and team lead reviews.
-
-- Integrated Google Maps API for tracking on iOS/Android.
+- Server Infrastructure & Observability: Set up and managed VPS environments (Vultr) alongside Cloud/CDN platforms. Engineered a fault-tolerant server architecture utilizing Redis, PM2, and Sentry for robust process management and proactive error tracking, guaranteeing high performance and strict 24/7 system uptime.
 
 
 
@@ -65,7 +51,7 @@ Aug 2022 – Sept 2022
 
 - Developed HR applications and improved user interfaces.
 
-- Accelerated software development and debugging lifecycles by strategically utilizing AI developer tools (such as ChatGPT) as a coding assistant, significantly increasing overall engineering efficiency and reducing bug resolution time.
+- Utilizing AI developer tools (such as ChatGPT) as a coding assistant.
 
 
 
@@ -73,9 +59,19 @@ Aug 2022 – Sept 2022
 
 Aug 2022 – Aug 2022
 
-- Developed [pesticide](https://play.google.com/store/apps/details?id=com.pestisida.simpes) info app
+- Enhanced UI/UX [pesticide](https://play.google.com/store/apps/details?id=com.pestisida.simpes) info app for legacy systems and integrated external APIs.
 
-- Enhanced UI/UX for legacy systems and integrated external APIs.
+
+
+## **Flutter Developer (Freelance)**, PT BEEMATA DEV -- Indonesia
+
+May 2022 – July 2022
+
+- Built a cross-platform attendance app for Japanese and Indonesian firms.
+
+- Ensured high code quality standards through rigorous peer and team lead reviews (GitLab Beemata, MS Team).
+
+- Integrated Google Maps API for tracking on iOS/Android.
 
 
 
@@ -83,7 +79,7 @@ Aug 2022 – Aug 2022
 
 Dec 2020 – May 2022
 
-- Rebuilt a 20-year-old desktop application into a modern web platform, utilizing over 200 Figma designs and comprehensive flowcharts. Optimized complex MySQL and Oracle 12c queries across databases featuring Japanese column names, drastically reducing response times from 15 minutes to seconds.
+- Rebuilt a 20-year-old Japanese legacy desktop application into a modern web platform, utilizing over 200 Figma designs and comprehensive flowcharts. Optimized complex MySQL and Oracle 12c queries across databases featuring Japanese column names, drastically reducing response times from 15 minutes to seconds.
 
 - Collaborated with two N2-certified Japanese translators and one English translator to build and integrate multilingual support into the system.
 
@@ -140,7 +136,7 @@ Jan 2016 – Apr 2016
 
 **Frontend & Mobile:** Android Native (Jetpack Compose) Kotlin, Java, Flutter (Riverpod, BLoC, GetX), Vue.js, React, Next.js, Rust Egui, SSR, SSG.
 
-**Backend & Architecture:** Microservices, MySQL, Oracle 12c, GraphQL, Node.js, Laravel, Custom CMS Development, Clean Architecture, Domain-Driven Design (DDD), Software Design.
+**Backend & Architecture:** Microservices, MySQL, Oracle 12c, GraphQL, Node.js, PM2, Sentry, Laravel, Redis, BullMQ, Custom CMS Development, Clean Architecture, Domain-Driven Design (DDD), Software Design.
 
 **Cloud, DevOps & Tools:** Cloud Infrastructure (AWS, GCP, VULTR, Cloudflare), VPS, Docker, Firebase, CI/CD (GitHub Actions), Jira, Agile/Scrum.
 
