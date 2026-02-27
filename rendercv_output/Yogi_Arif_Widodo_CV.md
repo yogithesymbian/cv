@@ -8,18 +8,18 @@
 
 
 # Summary
-Result-driven Software Engineer with 9 years of experience digitalizing industries in Japanese, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
+Result-driven Software Engineer with 9 years of end-to-end software development experience (including independent consultancy and enterprise roles) and driving digital transformation for global clients across Japan, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Proven track record in the maritime port sector (BUP), successfully migrating 200+ enterprises (including Schlumberger and Pertamina) to 100% paperless ecosystems with 24/7 uptime and a 100% project approval rate. Deeply experienced in modern software design, cloud infrastructure, and currently building an autonomous Multi-LLM AI platform at Yocatetin to revolutionize global data management.
 
 # Experience
 ## **Founder & Software Engineer**, Yocatetin Data Inteligensia -- Indonesia
 
 Feb 2026 – present
 
-- Architecting and engineering an autonomous Multi-LLM AI platform to automate global data management workflows.
+- Architecting an autonomous Multi-LLM platform for global data workflow automation.
 
-- Designing scalable system infrastructure and integrating advanced AI APIs into the core application.
+- Designing scalable GCP & AWS infrastructure and integrating advanced AI APIs into the core system.
 
-- Establishing automated technical operations to ensure the platform runs continuously with minimal manual intervention.
+- Automating technical operations to ensure continuous, zero-touch platform reliability.
 
 
 
@@ -27,9 +27,9 @@ Feb 2026 – present
 
 Nov 2023 – Aug 2025
 
-- Contributed to Samatech internal applications.
+- Contributed to the UI implementation Maintenance and bug resolution for Samatech’s internal applications.
 
-- Revitalized a client’s logistics company nearing closure by architecting a custom management system that digitized manual workflows and expanded operational capacity.
+- Developed the frontend interfaces for a logistics client's custom management system, supporting the digitization of their manual workflows.
 
 
 
@@ -66,8 +66,6 @@ Aug 2022 – Sept 2022
 - Developed HR applications and improved user interfaces.
 
 - Accelerated software development and debugging lifecycles by strategically utilizing AI developer tools (such as ChatGPT) as a coding assistant, significantly increasing overall engineering efficiency and reducing bug resolution time.
-
-- Resolved QA bugs quickly and iterated on features based on user feedback.
 
 
 
@@ -140,9 +138,13 @@ Jan 2016 – Apr 2016
 # Skills
 **Languages:** English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
 
-**Core Technologies:** Cloud Infrastructure (VULTR/AWS/GCP), CI/CD pipelines (GitHub Actions), AI Driven Test Playwright, JUnit, Espresso, atau Mockito, Docker, Microservices, Agile/Scrum, Android Native (Jetpack Compose), Flutter (Riverpod, BLoC, GetX), Kotlin, Clean Architecture, Domain-Driven Design (DDD), OpenAI API, Vertex AI.
+**Frontend & Mobile:** Android Native (Jetpack Compose) Kotlin, Java, Flutter (Riverpod, BLoC, GetX), Vue.js, React, Next.js, Rust Egui, SSR, SSG.
 
-**Technical Assessments:** [News App (Android Native)](link): Built UI with Jetpack Compose, FDD + Atomic Design, Unit/UI tests. [HR App (Flutter Web)](link): Built with Flutter Riverpod, DDD modularity.
+**Backend & Architecture:** Microservices, MySQL, Oracle 12c, GraphQL, Node.js, Laravel, Custom CMS Development, Clean Architecture, Domain-Driven Design (DDD), Software Design.
+
+**Cloud, DevOps & Tools:** Cloud Infrastructure (AWS, GCP, VULTR, Cloudflare), VPS, Docker, Firebase, CI/CD (GitHub Actions), Jira, Agile/Scrum.
+
+**AI & Testing:** OpenAI API, Vertex AI, Multi-LLM, Playwright, JUnit, Espresso, Mockito.
 
 # Certifications
 ## ****

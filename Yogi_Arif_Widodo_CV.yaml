@@ -11,7 +11,9 @@ cv:
       username: yogi-arif-widodo
   sections:
     summary:
-      - "Result-driven Software Engineer with 9 years of experience digitalizing industries in Japanese, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management."
+      - "Result-driven Software Engineer with 9 years of end-to-end software development experience (including independent consultancy and enterprise roles) and driving digital transformation for global clients across Japan, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Proven track record in the maritime port sector (BUP), successfully migrating 200+ enterprises (including Schlumberger and Pertamina) to 100% paperless ecosystems with 24/7 uptime and a 100% project approval rate. Deeply experienced in modern software design, cloud infrastructure, and currently building an autonomous Multi-LLM AI platform at Yocatetin to revolutionize global data management."
+    # summary:
+    #   - "Result-driven Software Engineer with 9 years of end-to-end software development experience (including independent consultancy and enterprise roles) digitalizing industries in Japanese, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management."
     experience:
       - company: Yocatetin Data Inteligensia
         position: Founder & Software Engineer
@@ -19,17 +21,17 @@ cv:
         end_date: present
         location: Indonesia
         highlights:
-          - "Architecting and engineering an autonomous Multi-LLM AI platform to automate global data management workflows."
-          - "Designing scalable system infrastructure and integrating advanced AI APIs into the core application."
-          - "Establishing automated technical operations to ensure the platform runs continuously with minimal manual intervention."
+          - Architecting an autonomous Multi-LLM platform for global data workflow automation.
+          - Designing scalable GCP & AWS infrastructure and integrating advanced AI APIs into the core system.
+          - Automating technical operations to ensure continuous, zero-touch platform reliability.
       - company: PT Sama Teknologi Indonesia (Samatech)
         position: Frontend Developer (Contract)
         start_date: 2023-11
         end_date: 2025-08
         location: Surabaya
         highlights:
-          - Contributed to Samatech internal applications.
-          - Revitalized a client’s logistics company nearing closure by architecting a custom management system that digitized manual workflows and expanded operational capacity.
+          - Contributed to the UI implementation Maintenance and bug resolution for Samatech’s internal applications.
+          - Developed the frontend interfaces for a logistics client's custom management system, supporting the digitization of their manual workflows.
       - company: PT Sarana Abadi Lestari (SAL)
         position: Full-Stack Software Engineer (Freelance/Contract)
         start_date: 2022-07
@@ -57,7 +59,6 @@ cv:
         highlights:
           - Developed HR applications and improved user interfaces.
           - Accelerated software development and debugging lifecycles by strategically utilizing AI developer tools (such as ChatGPT) as a coding assistant, significantly increasing overall engineering efficiency and reducing bug resolution time.
-          - Resolved QA bugs quickly and iterated on features based on user feedback.
       - company: Remote Worker Indonesia
         position: Flutter Developer (Freelance)
         start_date: 2022-08
@@ -111,10 +112,14 @@ cv:
     skills:
       - label: Languages
         details: English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
-      - label: Core Technologies
-        details: Cloud Infrastructure (VULTR/AWS/GCP), CI/CD pipelines (GitHub Actions), AI Driven Test Playwright, JUnit, Espresso, atau Mockito, Docker, Microservices, Agile/Scrum, Android Native (Jetpack Compose), Flutter (Riverpod, BLoC, GetX), Kotlin, Clean Architecture, Domain-Driven Design (DDD), OpenAI API, Vertex AI.
-      - label: Technical Assessments
-        details: "[News App (Android Native)](link): Built UI with Jetpack Compose, FDD + Atomic Design, Unit/UI tests. [HR App (Flutter Web)](link): Built with Flutter Riverpod, DDD modularity."
+      - label: Frontend & Mobile
+        details: Android Native (Jetpack Compose) Kotlin, Java, Flutter (Riverpod, BLoC, GetX), Vue.js, React, Next.js, Rust Egui, SSR, SSG.
+      - label: Backend & Architecture
+        details: Microservices, MySQL, Oracle 12c, GraphQL, Node.js, Laravel, Custom CMS Development, Clean Architecture, Domain-Driven Design (DDD), Software Design.
+      - label: Cloud, DevOps & Tools
+        details: Cloud Infrastructure (AWS, GCP, VULTR, Cloudflare), VPS, Docker, Firebase, CI/CD (GitHub Actions), Jira, Agile/Scrum.
+      - label: AI & Testing
+        details: OpenAI API, Vertex AI, Multi-LLM, Playwright, JUnit, Espresso, Mockito.
     certifications:
       - name: ""
         summary: "[Google Certification Skill - Artificial Intelligence](https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170)"
