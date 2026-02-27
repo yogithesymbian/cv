@@ -219,7 +219,7 @@ Aug 2019
 
 - [International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)](https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing)
 
-- [TOEFL Score 427](https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing)
+- [TOEFL](https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing)
 
 
 
