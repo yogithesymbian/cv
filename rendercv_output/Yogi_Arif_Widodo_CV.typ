@@ -112,7 +112,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   ],
   main-column-second-row: [
-    - Architecting an autonomous Multi-LLM platform and Designed to process without manual intervention
+    - Architecting an autonomous Multi-LLM platform and Designed to process without manual intervention.
 
     - Scalable GCP & AWS infrastructure and Integrating advanced AI APIs into the core system to ensure continuous.
 
@@ -239,7 +239,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   ],
   main-column-second-row: [
-    - #link("https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing")[Led a project for SMK and university students, earned certifications.]
+    - #link("https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing")[Led a project for SMK and university students, earned certifications.].
 
     - Identified a need for foundational algorithm knowledge among SMK students and provided hands-on instruction using Android Studio.
 
@@ -277,7 +277,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
     - #link("https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing")[First Earning Upwork].
 
-    - Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia)
+    - Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia).
 
   ],
 )
@@ -292,16 +292,16 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   ],
   main-column-second-row: [
-    - Performed network setup and maintenance for Marine Tower and general IT support
+    - Performed network setup and maintenance for Marine Tower and general IT support.
 
-    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment]
+    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment].
 
   ],
 )
 
 == Skills
 
-#strong[Languages:] English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
+#strong[Languages:] English (Intermediate), Indonesian (Proficient), Japanese (Beginner).
 
 #strong[Frontend & Mobile:] Android Native (Jetpack Compose) Kotlin, Java, Flutter (Riverpod, BLoC, GetX), Vue.js, React, Next.js, Rust Egui, SSR, SSG.
 
@@ -315,7 +315,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   #regular-entry(
   [
-    #summary[#link("https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170")[Google Certification Skill - Artificial Intelligence]]
+    #summary[#link("https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170")[Google Certification Skill - Artificial Intelligence].]
 
   ],
   [
@@ -326,7 +326,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   #regular-entry(
   [
-    #summary[#link("https://drive.google.com/file/d/1c38A88M9TRTK7biA0X7UBDbnE20NzzBl/view?usp=sharing")[Alibaba Cloud - Big Data: A Quick Guide to Process Structured Data with Python]]
+    #summary[#link("https://drive.google.com/file/d/1c38A88M9TRTK7biA0X7UBDbnE20NzzBl/view?usp=sharing")[Alibaba Cloud - Big Data: A Quick Guide to Process Structured Data with Python].]
 
   ],
   [
@@ -337,7 +337,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   #regular-entry(
   [
-    #summary[#link("https://drive.google.com/file/d/1tGqwIXZG6R4-qkSInz_YF6FBAjvMyYMl/view?usp=sharing")[Oracle Database Foundation]]
+    #summary[#link("https://drive.google.com/file/d/1tGqwIXZG6R4-qkSInz_YF6FBAjvMyYMl/view?usp=sharing")[Oracle Database Foundation].]
 
   ],
   [
@@ -348,7 +348,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   #regular-entry(
   [
-    #summary[#link("https://drive.google.com/file/d/12uY-jkKY0PWYGZ94ueuuRyHSNcvO3WNa/view?usp=sharing")[Dicoding - Kotlin Android Developer Expert]]
+    #summary[#link("https://drive.google.com/file/d/12uY-jkKY0PWYGZ94ueuuRyHSNcvO3WNa/view?usp=sharing")[Dicoding - Kotlin Android Developer Expert].]
 
   ],
   [
@@ -359,7 +359,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   #regular-entry(
   [
-    #summary[#link("https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/")[Flutter Development Bootcamp with Dart]]
+    #summary[#link("https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/")[Flutter Development Bootcamp with Dart].]
 
   ],
   [
@@ -370,7 +370,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   #regular-entry(
   [
-    #summary[#link("https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing")[Indonesian Professional Certification Authority - Programming and Software Development]]
+    #summary[#link("https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing")[Indonesian Professional Certification Authority - Programming and Software Development].]
 
   ],
   [
@@ -381,7 +381,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   #regular-entry(
   [
-    #summary[#link("https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/")[Fifteen Great CTO Leadership Hacks]]
+    #summary[#link("https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/")[Fifteen Great CTO Leadership Hacks].]
 
   ],
   [
@@ -394,7 +394,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
 #regular-entry(
   [
-    #summary[#link("https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing")[The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau]]
+    #summary[#link("https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing")[The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau].]
 
   ],
   [
@@ -407,7 +407,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
 #regular-entry(
   [
-    #summary[#link("https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing")[Bali Startup Camp Held at STMIK Primakara Denpasar]]
+    #summary[#link("https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing")[Bali Startup Camp Held at STMIK Primakara Denpasar].]
 
   ],
   [
@@ -420,7 +420,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
 #regular-entry(
   [
-    #summary[#link("https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing")[Samarinda Hackathon 2.0]]
+    #summary[#link("https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing")[Samarinda Hackathon 2.0].]
 
   ],
   [
@@ -443,13 +443,13 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   ],
   main-column-second-row: [
-    - GPA: 3.91\/4.00 #link("https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link")[View Transcript]
+    - GPA: 3.91\/4.00 #link("https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link")[View Transcript].
 
-    - Recognized as one of the top 21 graduates in the class of 2020
+    - Recognized as one of the top 21 graduates in the class of 2020.
 
-    - #link("https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing")[International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)]
+    - #link("https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing")[International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)].
 
-    - #link("https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing")[TOEFL]
+    - #link("https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing")[TOEFL].
 
   ],
 )
@@ -466,7 +466,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
   main-column-second-row: [
     #summary[During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks.]
 
-    - #link("https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing")[Certificate of Competency in Network Engineering]
+    - #link("https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing")[Certificate of Competency in Network Engineering].
 
   ],
 )

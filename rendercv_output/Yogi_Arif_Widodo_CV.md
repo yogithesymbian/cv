@@ -15,7 +15,7 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
 Feb 2026 – present
 
-- Architecting an autonomous Multi-LLM platform and Designed to process without manual intervention
+- Architecting an autonomous Multi-LLM platform and Designed to process without manual intervention.
 
 - Scalable GCP & AWS infrastructure and Integrating advanced AI APIs into the core system to ensure continuous.
 
@@ -93,7 +93,7 @@ Dec 2020 – May 2022
 
 Nov 2019 – Nov 2019
 
-- [Led a project for SMK and university students, earned certifications.](https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing)
+- [Led a project for SMK and university students, earned certifications.](https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing).
 
 - Identified a need for foundational algorithm knowledge among SMK students and provided hands-on instruction using Android Studio.
 
@@ -117,7 +117,7 @@ Mar 2017 – Jan 2026
 
 - [First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing).
 
-- Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia)
+- Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia).
 
 
 
@@ -125,14 +125,14 @@ Mar 2017 – Jan 2026
 
 Jan 2016 – Apr 2016
 
-- Performed network setup and maintenance for Marine Tower and general IT support
+- Performed network setup and maintenance for Marine Tower and general IT support.
 
-- [Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing)
+- [Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment](https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing).
 
 
 
 # Skills
-**Languages:** English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
+**Languages:** English (Intermediate), Indonesian (Proficient), Japanese (Beginner).
 
 **Frontend & Mobile:** Android Native (Jetpack Compose) Kotlin, Java, Flutter (Riverpod, BLoC, GetX), Vue.js, React, Next.js, Rust Egui, SSR, SSG.
 
@@ -145,43 +145,43 @@ Jan 2016 – Apr 2016
 # Certifications
 ## ****
 
-[Google Certification Skill - Artificial Intelligence](https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170)
+[Google Certification Skill - Artificial Intelligence](https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170).
 
 
 
 ## ****
 
-[Alibaba Cloud - Big Data: A Quick Guide to Process Structured Data with Python](https://drive.google.com/file/d/1c38A88M9TRTK7biA0X7UBDbnE20NzzBl/view?usp=sharing)
+[Alibaba Cloud - Big Data: A Quick Guide to Process Structured Data with Python](https://drive.google.com/file/d/1c38A88M9TRTK7biA0X7UBDbnE20NzzBl/view?usp=sharing).
 
 
 
 ## ****
 
-[Oracle Database Foundation](https://drive.google.com/file/d/1tGqwIXZG6R4-qkSInz_YF6FBAjvMyYMl/view?usp=sharing)
+[Oracle Database Foundation](https://drive.google.com/file/d/1tGqwIXZG6R4-qkSInz_YF6FBAjvMyYMl/view?usp=sharing).
 
 
 
 ## ****
 
-[Dicoding - Kotlin Android Developer Expert](https://drive.google.com/file/d/12uY-jkKY0PWYGZ94ueuuRyHSNcvO3WNa/view?usp=sharing)
+[Dicoding - Kotlin Android Developer Expert](https://drive.google.com/file/d/12uY-jkKY0PWYGZ94ueuuRyHSNcvO3WNa/view?usp=sharing).
 
 
 
 ## ****
 
-[Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/)
+[Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-71c20555-8d24-4475-a2a5-7267a0ce8a3d/).
 
 
 
 ## ****
 
-[Indonesian Professional Certification Authority - Programming and Software Development](https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing)
+[Indonesian Professional Certification Authority - Programming and Software Development](https://drive.google.com/file/d/1clPCcUXnqL3zCo4hpi2h2K95mQgkAbuW/view?usp=sharing).
 
 
 
 ## ****
 
-[Fifteen Great CTO Leadership Hacks](https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/)
+[Fifteen Great CTO Leadership Hacks](https://www.udemy.com/certificate/UC-0ce0b946-2cc2-40e0-b299-8211e3fae1f5/).
 
 
 
@@ -190,7 +190,7 @@ Jan 2016 – Apr 2016
 
 Sept 2020
 
-[The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau](https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing)
+[The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau](https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing).
 
 
 
@@ -198,7 +198,7 @@ Sept 2020
 
 Dec 2019
 
-[Bali Startup Camp Held at STMIK Primakara Denpasar](https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing)
+[Bali Startup Camp Held at STMIK Primakara Denpasar](https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing).
 
 
 
@@ -206,20 +206,20 @@ Dec 2019
 
 Aug 2019
 
-[Samarinda Hackathon 2.0](https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing)
+[Samarinda Hackathon 2.0](https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing).
 
 
 
 # Education
 ## **Politeknik Negeri Samarinda**, A.Md.Kom in Informatics Engineering -- Samarinda, IndonesiaNov 2017 – Nov 2020
 
-- GPA: 3.91/4.00 [View Transcript](https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link)
+- GPA: 3.91/4.00 [View Transcript](https://drive.google.com/file/d/1urf0XLTZo6MacVW6iEQCCPCrlkfnU_3s/view?usp=drive_link).
 
-- Recognized as one of the top 21 graduates in the class of 2020
+- Recognized as one of the top 21 graduates in the class of 2020.
 
-- [International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)](https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing)
+- [International Centre for English Excellence (ICEE) Certificate of Completion (One Year Program)](https://drive.google.com/file/d/1F5Epaw9y-vFGczsG_P93MfQVtHagrN_r/view?usp=sharing).
 
-- [TOEFL](https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing)
+- [TOEFL](https://drive.google.com/file/d/14188JVv_F-WqZtNwawJ4U11Vm38QVcLe/view?usp=sharing).
 
 
 
@@ -227,6 +227,6 @@ Aug 2019
 
 During my studies, I gained practical experience by configuring Mikrotik and Debian servers (DNS, VPN, Bind9, Mail Server) on VMware and working with Ubiquiti networks.
 
-- [Certificate of Competency in Network Engineering](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing)
+- [Certificate of Competency in Network Engineering](https://drive.google.com/file/d/1JR0LY8VlRkdiQKD7EPjKrTHB0aF8rFNz/view?usp=sharing).
 
 
