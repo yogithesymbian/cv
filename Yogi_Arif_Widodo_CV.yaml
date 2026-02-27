@@ -11,19 +11,17 @@ cv:
       username: yogi-arif-widodo
   sections:
     summary:
-      - "Result-driven Software Engineer with 9 years of exp digitalizing industries in Japan, AU, PL, IN, and ID. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management."
+      - "Result-driven Software Engineer with 9 years of experience digitalizing industries in Japanese, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management."
     experience:
       - company: Yocatetin Data Inteligensia
         position: Founder & Software Engineer
         start_date: 2026-02
         end_date: present
         location: Indonesia
-        # summary: "Autonomous Operations & Commitment: Established and managed PT Yocatetin Data Inteligensia as an autonomous entity, allowing me to provide full professional commitment to tackling complex technical challenges within your organization."
         highlights:
-          - "AI-Driven Innovation"
-          - "End-to-End Ownership"
-          - "International Operations"
-            # Managing the complete business lifecycle, from legal establishment to technical architecture and global infrastructure deployment.
+          - "Architecting and engineering an autonomous Multi-LLM AI platform to automate global data management workflows."
+          - "Designing scalable system infrastructure and integrating advanced AI APIs into the core application."
+          - "Establishing automated technical operations to ensure the platform runs continuously with minimal manual intervention."
       - company: PT Sama Teknologi Indonesia (Samatech)
         position: Frontend Developer (Contract)
         start_date: 2023-11
@@ -40,9 +38,8 @@ cv:
         summary: "Architected and deployed 100% paperless systems for a massive maritime Port Business Entity"
         highlights:
           - "High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on feedback."
-          # - "Enterprise Reliability: Built and maintained infrastructure currently used by 200+ companies, ensuring consistent performance and data integrity across VPS and IoT integration."
-          - "100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100% alignment with client needs."
-          - "Led the end-to-end engineering and strategic rollout of 3 critical real-time monitoring platforms (Land Route, River Route, Visitor Management), securing 17+ long-term contracts and maintaining a 100% project acceptance rate across global tenants like Pertamina and Schlumberger."
+          - "100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured alignment with client needs."
+          - "Led the end-to-end engineering and strategic rollout of 3 critical real-time monitoring platforms (Land Route, River Route, Visitor Management), securing 17+ long-term growth contracts initiate by clients"
       - company: PT BEEMATA DEV
         position: Flutter Developer (Freelance)
         start_date: 2022-05
@@ -94,7 +91,7 @@ cv:
         highlights:
           - Developed a native Android groceries app using Java and Kotlin, demonstrating Kotlin's conciseness and seamless interoperability within a single codebase.
       - company: SCODEID
-        position: Founder & Software Engineer
+        position: Independent Consultant / Freelance Software Engineer
         start_date: 2017-03
         end_date: 2026-01
         location: Indonesia
@@ -102,7 +99,7 @@ cv:
           - Founded SCODEID, a tech brand focused on delivering custom IT solutions.
           - Successfully completed over 10 freelance projects for multiple global clients.
           - "[First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing)."
-          - "Technical SDK Consultancy (IN), 10+ Multi-Industry Projects (ID)"
+          - "Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia)"
       - company: PT PELABUHAN PENAJAM BENUA TAKA (eastkal supply base)
         position: Network Engineer | Praktek Kerja Lapangan (PKL)
         start_date: 2016-01
@@ -114,8 +111,10 @@ cv:
     skills:
       - label: Languages
         details: English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
-      - label: Technical Assessment
-        details: "[News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building UI with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. Additional technical assessments are available on my portfolio, demonstrating expertise in Kotlin, Flutter (Provider, BLoC, GetX, Riverpod), Domain-Driven Design (DDD) patterns, OpenAI API, and Vertex AI."
+      - label: Core Technologies
+        details: Cloud Infrastructure (VULTR/AWS/GCP), CI/CD pipelines (GitHub Actions), AI Driven Test Playwright, JUnit, Espresso, atau Mockito, Docker, Microservices, Agile/Scrum, Android Native (Jetpack Compose), Flutter (Riverpod, BLoC, GetX), Kotlin, Clean Architecture, Domain-Driven Design (DDD), OpenAI API, Vertex AI.
+      - label: Technical Assessments
+        details: "[News App (Android Native)](link): Built UI with Jetpack Compose, FDD + Atomic Design, Unit/UI tests. [HR App (Flutter Web)](link): Built with Flutter Riverpod, DDD modularity."
     certifications:
       - name: ""
         summary: "[Google Certification Skill - Artificial Intelligence](https://www.skills.google/public_profiles/84c0ec01-1237-4cf8-bfd1-1bc1bda1d170)"

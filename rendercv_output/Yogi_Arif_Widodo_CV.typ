@@ -98,7 +98,7 @@
 
 == Summary
 
-Result-driven Software Engineer with 9 years of exp digitalizing industries in Japan, AU, PL, IN, and ID. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
+Result-driven Software Engineer with 9 years of experience digitalizing industries in Japanese, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Migrated 200+ firms (Schlumberger, Pertamina) to 100\% paperless with 24\/7 uptime on SAL Port Business Entity. 100\% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
 
 == Experience
 
@@ -112,11 +112,11 @@ Result-driven Software Engineer with 9 years of exp digitalizing industries in J
 
   ],
   main-column-second-row: [
-    - AI-Driven Innovation
+    - Architecting and engineering an autonomous Multi-LLM AI platform to automate global data management workflows.
 
-    - End-to-End Ownership
+    - Designing scalable system infrastructure and integrating advanced AI APIs into the core application.
 
-    - International Operations
+    - Establishing automated technical operations to ensure the platform runs continuously with minimal manual intervention.
 
   ],
 )
@@ -152,9 +152,9 @@ Result-driven Software Engineer with 9 years of exp digitalizing industries in J
 
     - High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on feedback.
 
-    - 100\% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100\% alignment with client needs.
+    - 100\% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured alignment with client needs.
 
-    - Led the end-to-end engineering and strategic rollout of 3 critical real-time monitoring platforms (Land Route, River Route, Visitor Management), securing 17+ long-term contracts and maintaining a 100\% project acceptance rate across global tenants like Pertamina and Schlumberger.
+    - Led the end-to-end engineering and strategic rollout of 3 critical real-time monitoring platforms (Land Route, River Route, Visitor Management), securing 17+ long-term growth contracts initiate by clients
 
   ],
 )
@@ -269,7 +269,7 @@ Result-driven Software Engineer with 9 years of exp digitalizing industries in J
 
 #regular-entry(
   [
-    #strong[Founder & Software Engineer], SCODEID -- Indonesia
+    #strong[Independent Consultant \/ Freelance Software Engineer], SCODEID -- Indonesia
 
   ],
   [
@@ -283,7 +283,7 @@ Result-driven Software Engineer with 9 years of exp digitalizing industries in J
 
     - #link("https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing")[First Earning Upwork].
 
-    - Technical SDK Consultancy (IN), 10+ Multi-Industry Projects (ID)
+    - Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia)
 
   ],
 )
@@ -309,7 +309,9 @@ Result-driven Software Engineer with 9 years of exp digitalizing industries in J
 
 #strong[Languages:] English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
 
-#strong[Technical Assessment:] #link("https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose")[News App (Android Native)]: Building UI with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. #link("https://github.com/yogithesymbian/flutter-ddd-bowindo-interview")[HR App (Flutter Web)]: Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. Additional technical assessments are available on my portfolio, demonstrating expertise in Kotlin, Flutter (Provider, BLoC, GetX, Riverpod), Domain-Driven Design (DDD) patterns, OpenAI API, and Vertex AI.
+#strong[Core Technologies:] Cloud Infrastructure (VULTR\/AWS\/GCP), CI\/CD pipelines (GitHub Actions), AI Driven Test Playwright, JUnit, Espresso, atau Mockito, Docker, Microservices, Agile\/Scrum, Android Native (Jetpack Compose), Flutter (Riverpod, BLoC, GetX), Kotlin, Clean Architecture, Domain-Driven Design (DDD), OpenAI API, Vertex AI.
+
+#strong[Technical Assessments:] #link("link")[News App (Android Native)]: Built UI with Jetpack Compose, FDD + Atomic Design, Unit\/UI tests. #link("link")[HR App (Flutter Web)]: Built with Flutter Riverpod, DDD modularity.
 
 == Certifications
 

@@ -8,18 +8,18 @@
 
 
 # Summary
-Result-driven Software Engineer with 9 years of exp digitalizing industries in Japan, AU, PL, IN, and ID. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Optimized database response times, reducing query execution from 15 minutes to seconds. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
+Result-driven Software Engineer with 9 years of experience digitalizing industries in Japanese, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Migrated 200+ firms (Schlumberger, Pertamina) to 100% paperless with 24/7 uptime on SAL Port Business Entity. 100% client approval rate over 25+ projects. Now founding Yocatetin, building autonomous AI via Multi-LLM to automate global data management.
 
 # Experience
 ## **Founder & Software Engineer**, Yocatetin Data Inteligensia -- Indonesia
 
 Feb 2026 – present
 
-- AI-Driven Innovation
+- Architecting and engineering an autonomous Multi-LLM AI platform to automate global data management workflows.
 
-- End-to-End Ownership
+- Designing scalable system infrastructure and integrating advanced AI APIs into the core application.
 
-- International Operations
+- Establishing automated technical operations to ensure the platform runs continuously with minimal manual intervention.
 
 
 
@@ -41,9 +41,9 @@ Architected and deployed 100% paperless systems for a massive maritime Port Busi
 
 - High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB), to refine maritime software based on feedback.
 
-- 100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured 100% alignment with client needs.
+- 100% Acceptance Rate: Achieved a perfect project approval record by delivering comprehensive technical roadmaps, executive summaries, and budget risk assessments that ensured alignment with client needs.
 
-- Led the end-to-end engineering and strategic rollout of 3 critical real-time monitoring platforms (Land Route, River Route, Visitor Management), securing 17+ long-term contracts and maintaining a 100% project acceptance rate across global tenants like Pertamina and Schlumberger.
+- Led the end-to-end engineering and strategic rollout of 3 critical real-time monitoring platforms (Land Route, River Route, Visitor Management), securing 17+ long-term growth contracts initiate by clients
 
 
 
@@ -113,7 +113,7 @@ July 2019 – Sept 2019
 
 
 
-## **Founder & Software Engineer**, SCODEID -- Indonesia
+## **Independent Consultant / Freelance Software Engineer**, SCODEID -- Indonesia
 
 Mar 2017 – Jan 2026
 
@@ -123,7 +123,7 @@ Mar 2017 – Jan 2026
 
 - [First Earning Upwork](https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing).
 
-- Technical SDK Consultancy (IN), 10+ Multi-Industry Projects (ID)
+- Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia)
 
 
 
@@ -140,7 +140,9 @@ Jan 2016 – Apr 2016
 # Skills
 **Languages:** English (Intermediate), Indonesian (Proficient), Japanese (Beginner)
 
-**Technical Assessment:** [News App (Android Native)](https://github.com/yogithesymbian/yonewsai-fdd-jetpack-compose): Building UI with Jetpack Compose, Applying Clean Architecture Using FDD + Atomic Design, Writing unit tests & UI tests in Compose. [HR App (Flutter Web)](https://github.com/yogithesymbian/flutter-ddd-bowindo-interview): Building UI with Flutter Riverpod as State Management, Applying Clean Architecture Using Domain-Driven Design (DDD) for modularity + Starter-Kit. Additional technical assessments are available on my portfolio, demonstrating expertise in Kotlin, Flutter (Provider, BLoC, GetX, Riverpod), Domain-Driven Design (DDD) patterns, OpenAI API, and Vertex AI.
+**Core Technologies:** Cloud Infrastructure (VULTR/AWS/GCP), CI/CD pipelines (GitHub Actions), AI Driven Test Playwright, JUnit, Espresso, atau Mockito, Docker, Microservices, Agile/Scrum, Android Native (Jetpack Compose), Flutter (Riverpod, BLoC, GetX), Kotlin, Clean Architecture, Domain-Driven Design (DDD), OpenAI API, Vertex AI.
+
+**Technical Assessments:** [News App (Android Native)](link): Built UI with Jetpack Compose, FDD + Atomic Design, Unit/UI tests. [HR App (Flutter Web)](link): Built with Flutter Riverpod, DDD modularity.
 
 # Certifications
 ## ****
