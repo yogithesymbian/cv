@@ -78,14 +78,12 @@
   date: datetime(
     year: 2026,
     month: 2,
-    day: 27,
+    day: 28,
   ),
 )
 
 
 = Yogi Arif Widodo
-
-  #headline([Software Engineer | AI Architected])
 
 #connections(
   [Samarinda, Indonesia],
@@ -98,13 +96,13 @@
 
 == Summary
 
-Result-driven Software Engineer with 9 years of end-to-end software development experience (including independent consultancy and enterprise roles) and driving digital transformation for global clients across Japan, Australia, Poland, India, and Indonesia. Rebuilt a 20-year-old Japanese legacy construction building application for a Tokyo-based client and scaled teams from 2 to 11. Proven track record in the maritime port sector (BUP), successfully migrating 200+ enterprises (including Schlumberger and Pertamina) to 100\% paperless ecosystems with 24\/7 uptime and a 100\% project approval rate. Currently building an autonomous Multi-LLM AI platform at Yocatetin for zero-touch platform.
+Software Engineer with 9+ years of experience architecting systems and driving digital transformation. Demonstrated success in migrating 200+ enterprise clients to a 100\% paperless maritime ecosystem, achieving 24\/7 uptime and a perfect 100\% project acceptance rate. Scaled cross-functional engineering teams from 2 to 11 members and modernized a 20-year-old legacy system, drastically reducing query response times from 15 minutes to seconds. Currently engineering an autonomous Multi-LLM AI platform aimed at eliminating manual operational workflows.
 
 == Experience
 
 #regular-entry(
   [
-    #strong[Founder & Software Engineer], Yocatetin Data Inteligensia -- Indonesia
+    #strong[Founder & Software Engineer], #link("https://yocatetin.com")[Yocatetin Data Inteligensia] -- Indonesia
 
   ],
   [
@@ -112,9 +110,11 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   ],
   main-column-second-row: [
-    - Architecting an autonomous Multi-LLM platform and Designed to process without manual intervention.
+    - Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js, successfully launching 2 live products capable of zero-touch data processing.
 
-    - Scalable GCP & AWS infrastructure and Integrating advanced AI APIs into the core system to ensure continuous.
+    - Engineered an auto-scaling cloud infrastructure on GCP and AWS, guaranteeing continuous system availability and optimal resource allocation without manual intervention.
+
+    - Established robust testing pipelines using Playwright and JUnit to maintain high reliability across continuous deployment cycles.
 
   ],
 )
@@ -129,16 +129,16 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   ],
   main-column-second-row: [
-    - Maintenance and bug resolution for Samatech internal applications.
+    - Resolved critical bugs and maintained internal enterprise applications, ensuring high system reliability and smooth daily operations across the company.
 
-    - Built a custom management system for Revitalized a logistics client's with digitization their manual workflows.
+    - Engineered a custom logistics management system using Next.js, digitizing manual workflows and significantly increasing operational efficiency for a key client.
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Senior Full-Stack & Server Engineer], PT Sarana Abadi Lestari (SAL) -- Indonesia
+    #strong[Senior Full-Stack & Server Engineer], #link("https://salpalaran.com")[PT Sarana Abadi Lestari (SAL)] -- Indonesia
 
   ],
   [
@@ -148,115 +148,11 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
   main-column-second-row: [
     #summary[Architected, deployed, and managed both application architecture and server infrastructure for a 100\% paperless maritime Port Business Entity (BUP) ecosystem.]
 
-    - High-Stakes Collaboration: Partnered with major global and national tenants, including PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), and Schlumberger (SLB) to digitalize complex maritime workflows, achieving a perfect 100\% project acceptance rate.
+    - Spearheaded the digitalization of complex maritime workflows by partnering with enterprise tenants (e.g., PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), Schlumberger), achieving a 100\% project acceptance rate across all integrations.
 
-    - Full-Stack Engineering (Node.js, Rust Egui, Vue.js, Flutter & IoT): Led the end-to-end development of 3 critical real-time monitoring platforms (Vehicle Land Route, River Route, and Secure Digital Pass\/Visitor Management), securing 17+ client-initiated growth contracts.
+    - Led the end-to-end development of 3 critical real-time monitoring platforms (Vehicle Land Route, River Route, Secure Digital Pass), directly securing 17+ new growth contracts through strategic roadmapping.
 
-    - Server Infrastructure & Observability: Set up and managed VPS environments (Vultr) alongside Cloud\/CDN platforms. Engineered a fault-tolerant server architecture utilizing Redis, PM2, and Sentry for robust process management and proactive error tracking, guaranteeing high performance and strict 24\/7 system uptime.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Flutter Developer (Freelance)], Bowindo -- Indonesia
-
-  ],
-  [
-    Aug 2022 – Sept 2022
-
-  ],
-  main-column-second-row: [
-    - Developed HR applications and improved user interfaces.
-
-    - Utilizing AI developer tools (such as ChatGPT) as a coding assistant.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Flutter Developer (Freelance)], Remote Worker Indonesia
-
-  ],
-  [
-    Aug 2022 – Aug 2022
-
-  ],
-  main-column-second-row: [
-    - Enhanced UI\/UX #link("https://play.google.com/store/apps/details?id=com.pestisida.simpes")[pesticide] info app for legacy systems and integrated external APIs.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Flutter Developer (Freelance)], PT BEEMATA DEV -- Indonesia
-
-  ],
-  [
-    May 2022 – July 2022
-
-  ],
-  main-column-second-row: [
-    - Built a cross-platform attendance app for Japanese and Indonesian firms.
-
-    - Ensured high code quality standards through rigorous peer and team lead reviews (GitLab Beemata, MS Team).
-
-    - Integrated Google Maps API for tracking on iOS\/Android.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Co-Founder (Full-Time)], PT INDEKS MEDIA TEKNOLOGI -- Samarinda
-
-  ],
-  [
-    Dec 2020 – May 2022
-
-  ],
-  main-column-second-row: [
-    - Rebuilt a 20-year-old Japanese legacy desktop application into a modern web platform, utilizing over 200 Figma designs and comprehensive flowcharts. Optimized complex MySQL and Oracle 12c queries across databases featuring Japanese column names, drastically reducing response times from 15 minutes to seconds.
-
-    - Developed systems for clients across multiple countries and scaled the engineering team from 2 to 11 members.
-
-    - Collaborated with two N2-certified Japanese translators and one English translator to build and integrate multilingual support into the system.
-
-    - Other Notable Projects: Australia Payment Gateway Auspost, Poland Gallery.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Instructor Junior Mobile Programmer], Digital Talent Scholarship -- POLNES
-
-  ],
-  [
-    Nov 2019 – Nov 2019
-
-  ],
-  main-column-second-row: [
-    - #link("https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing")[Led a project for SMK and university students, earned certifications.].
-
-    - Identified a need for foundational algorithm knowledge among SMK students and provided hands-on instruction using Android Studio.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Android Developer | Kuliah Kerja Praktek (KKP)], CV. PAULFEN MANDIRI -- Samarinda
-
-  ],
-  [
-    July 2019 – Sept 2019
-
-  ],
-  main-column-second-row: [
-    - Developed a native Android groceries app using Java and Kotlin, demonstrating Kotlin's conciseness and seamless interoperability within a single codebase.
+    - Architected a fault-tolerant VPS and cloud infrastructure using PM2, BullMQ, and Sentry, achieving strict 24\/7 system uptime and zero data loss for jetty maritime operations.
 
   ],
 )
@@ -271,13 +167,68 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   ],
   main-column-second-row: [
-    - Founded SCODEID, a tech brand focused on delivering custom IT solutions.
+    - Founded an independent tech consultancy, delivering 10+ custom web and mobile solutions for global clients across India, Japan, and Indonesia.
 
-    - Successfully completed over 10 freelance projects for multiple global clients.
+    - Developed a cross-platform leave attendance application for international firms using Flutter and Riverpod, implementing Domain-Driven Design (DDD) to ensure code scalability.
 
-    - #link("https://drive.google.com/file/d/1PnmsfDYpdaRraQPIUs8jr9hw070MWYBt/view?usp=sharing")[First Earning Upwork].
+    - Revitalized a legacy pesticide information app by enhancing UI\/UX with Flutter GetX, significantly improving user retention and accessibility.
 
-    - Technical SDK Consultancy (India), 10+ Multi-Industry Projects (Indonesia).
+    - Built and deployed dynamic HR applications, utilizing AI coding assistants to accelerate feature delivery and reduce development cycles.
+
+    - Provided technical SDK consultancy for an Indian client, securing the first international Upwork contract by demonstrating deep architectural expertise.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Co-Founder (Full-Time)], PT INDEKS MEDIA TEKNOLOGI -- Samarinda
+
+  ],
+  [
+    Dec 2020 – May 2022
+
+  ],
+  main-column-second-row: [
+    - Modernized a 20-year-old legacy Japanese desktop application into a scalable web platform using Vue.js and Laravel, translating 200+ Figma designs into functional modules.
+
+    - Slashed database query response times from 15 minutes to under 5 seconds by optimizing complex queries across MySQL and Oracle 12c databases featuring Japanese localization.
+
+    - Scaled a cross-functional engineering team from 2 to 11 members, seamlessly integrating multilingual support by collaborating with certified translators.
+
+    - Delivered high-profile international projects, including an Australian Payment Gateway (Auspost) integration and a Polish Gallery platform.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Instructor Junior Mobile Programmer], Digital Talent Scholarship -- POLNES
+
+  ],
+  [
+    Nov 2019 – Nov 2019
+
+  ],
+  main-column-second-row: [
+    - Mentored vocational (SMK) and university students in native Android development, improving their foundational algorithm knowledge through hands-on Kotlin instruction.
+
+    - #link("https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing")[Led the final project evaluation phase, enabling students to successfully earn their programming certifications.]
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Android Developer | Kuliah Kerja Praktek (KKP)], CV. PAULFEN MANDIRI -- Samarinda
+
+  ],
+  [
+    July 2019 – Sept 2019
+
+  ],
+  main-column-second-row: [
+    - Developed and launched (internal) a native Android e-commerce application for groceries using Java and Kotlin, establishing a seamless single-codebase architecture.
 
   ],
 )
@@ -292,9 +243,9 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
   ],
   main-column-second-row: [
-    - Performed network setup and maintenance for Marine Tower and general IT support.
+    - Configured and maintained enterprise network infrastructure using Ubiquiti, MikroTik, and Cisco, ensuring high availability for port operations.
 
-    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Handled Jetty CCTV Systems, Ubiquiti, MikroTik, and Cisco equipment].
+    - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Deployed and secured Jetty CCTV systems across the Marine Tower and RIG Area, enhancing perimeter security monitoring.]
 
   ],
 )
@@ -303,9 +254,9 @@ Result-driven Software Engineer with 9 years of end-to-end software development 
 
 #strong[Languages:] English (Intermediate), Indonesian (Proficient), Japanese (Beginner).
 
-#strong[Frontend & Mobile:] Android Native (Jetpack Compose) Kotlin, Java, Flutter (Riverpod, BLoC, GetX), Vue.js, React, Next.js, Rust Egui, SSR, SSG.
+#strong[Frontend & Mobile:] Android Native (Jetpack Compose) Kotlin, Java, Flutter (Riverpod, BLoC, GetX), Vue.js, React, Next.js, Rust Egui, SSR, SSG, Contentful.
 
-#strong[Backend & Architecture:] Microservices, MySQL, Oracle 12c, GraphQL, Node.js, PM2, Sentry, Laravel, Redis, BullMQ, Custom CMS Development, Clean Architecture, Domain-Driven Design (DDD), Software Design.
+#strong[Backend & Architecture:] Microservices, MySQL, Oracle 12c, GraphQL, Node.js, PM2, Sentry, Laravel, Redis, BullMQ, Clean Architecture, Domain-Driven Design (DDD), Software Design.
 
 #strong[Cloud, DevOps & Tools:] Cloud Infrastructure (AWS, GCP, VULTR, Cloudflare), VPS, Docker, Firebase, CI\/CD (GitHub Actions), Jira, Agile\/Scrum.
 
