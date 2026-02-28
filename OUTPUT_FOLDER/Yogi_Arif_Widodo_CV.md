@@ -61,7 +61,7 @@ Mar 2017 – Jan 2026
 
 - Built and deployed dynamic HR applications, utilizing AI coding assistants to accelerate feature delivery and reduce development cycles.
 
-- Provided technical SDK consultancy for an Indian client, securing the first international Upwork contract by demonstrating deep architectural expertise.
+- Expanded global client base by securing two international SDK consultancy contracts with Indian clients-sourced organically via GitHub and competitively through Upwork-delivering robust architectural solutions.
 
 
 
