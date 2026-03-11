@@ -12,14 +12,14 @@ cv:
     summary:
       - "Software Engineer with 9+ years of experience architecting systems and driving digital transformation. Demonstrated success in migrating 200+ enterprise clients to a 100% paperless maritime ecosystem, achieving 24/7 uptime and a perfect 100% project acceptance rate. Scaled cross-functional engineering teams from 2 to 11 members and modernized a 20-year-old legacy system, drastically reducing query response times from 15 minutes to seconds. Currently engineering an autonomous Multi-LLM AI platform aimed at eliminating manual operational workflows."
     experience:
-      - company: "[Yocatetin Data Inteligensia](https://yocatetin.com)"
+      - company: "[PT Yocatetin Data Inteligensia](https://yocatetin.com)"
         position: Founder & Software Engineer
         start_date: 2026-02
         end_date: present
         location: Indonesia
         # YO_STACK: "Node.JS, Next.js, Rust, Supabase, PostgreSQL, Redis, GCP & AWS, Playwright, Jest"
         highlights:
-          - "Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js, successfully launching 2 live products capable of zero-touch data processing."
+          - "Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js, successfully launching 3 live products capable of zero-touch data processing."
           - "Engineered an auto-scaling cloud infrastructure on GCP and AWS, guaranteeing continuous system availability and optimal resource allocation without manual intervention."
           - "Established robust testing pipelines using Playwright and Jest to maintain high reliability across continuous deployment cycles."
 
@@ -89,7 +89,7 @@ cv:
         highlights:
           - "Developed and launched (internal) a native Android e-commerce application for groceries using Java and Kotlin, establishing a seamless single-codebase architecture."
 
-      - company: Eastkal Supply Base
+      - company: PT Eastkal Supply Base
         position: Network Engineer | Praktek Kerja Lapangan (PKL)
         start_date: 2016-01
         end_date: 2016-04
@@ -135,13 +135,13 @@ cv:
     competition:
       - name: ""
         summary: "[The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau](https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing)."
-        date: 2020-09
+        # date: 2020-09
       - name: ""
         summary: "[Bali Startup Camp Held at STMIK Primakara Denpasar](https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing)."
-        date: 2019-12
+        # date: 2019-12
       - name: ""
         summary: "[Samarinda Hackathon 2.0](https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing)."
-        date: 2019-08
+        # date: 2019-08
     education:
       - institution: Politeknik Negeri Samarinda
         area: Informatics Engineering

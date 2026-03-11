@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Yogi Arif Widodo",
   footer: context { [#emph[Yogi Arif Widodo -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Feb 2026] ],
+  top-note: [ #emph[Last updated in Mar 2026] ],
   locale-catalog-language: "en",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 2,
-    day: 28,
+    month: 3,
+    day: 11,
   ),
 )
 
@@ -102,7 +102,7 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
 #regular-entry(
   [
-    #strong[Founder & Software Engineer], #link("https://yocatetin.com")[Yocatetin Data Inteligensia] -- Indonesia
+    #strong[Founder & Software Engineer], #link("https://yocatetin.com")[PT Yocatetin Data Inteligensia] -- Indonesia
 
   ],
   [
@@ -110,7 +110,7 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
   ],
   main-column-second-row: [
-    - Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js, successfully launching 2 live products capable of zero-touch data processing.
+    - Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js, successfully launching 3 live products capable of zero-touch data processing.
 
     - Engineered an auto-scaling cloud infrastructure on GCP and AWS, guaranteeing continuous system availability and optimal resource allocation without manual intervention.
 
@@ -237,7 +237,7 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
 #regular-entry(
   [
-    #strong[Network Engineer | Praktek Kerja Lapangan (PKL)], Eastkal Supply Base -- Penajam
+    #strong[Network Engineer | Praktek Kerja Lapangan (PKL)], PT Eastkal Supply Base -- Penajam
 
   ],
   [
@@ -345,40 +345,34 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
 == Competition
 
-#regular-entry(
+  #regular-entry(
   [
     #summary[#link("https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing")[The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau].]
 
   ],
   [
-    Sept 2020
-
   ],
   main-column-second-row: [
   ],
 )
 
-#regular-entry(
+  #regular-entry(
   [
     #summary[#link("https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing")[Bali Startup Camp Held at STMIK Primakara Denpasar].]
 
   ],
   [
-    Dec 2019
-
   ],
   main-column-second-row: [
   ],
 )
 
-#regular-entry(
+  #regular-entry(
   [
     #summary[#link("https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing")[Samarinda Hackathon 2.0].]
 
   ],
   [
-    Aug 2019
-
   ],
   main-column-second-row: [
   ],

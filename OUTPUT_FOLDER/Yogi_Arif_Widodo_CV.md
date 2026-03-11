@@ -11,11 +11,11 @@
 Software Engineer with 9+ years of experience architecting systems and driving digital transformation. Demonstrated success in migrating 200+ enterprise clients to a 100% paperless maritime ecosystem, achieving 24/7 uptime and a perfect 100% project acceptance rate. Scaled cross-functional engineering teams from 2 to 11 members and modernized a 20-year-old legacy system, drastically reducing query response times from 15 minutes to seconds. Currently engineering an autonomous Multi-LLM AI platform aimed at eliminating manual operational workflows.
 
 # Experience
-## **Founder & Software Engineer**, [Yocatetin Data Inteligensia](https://yocatetin.com) -- Indonesia
+## **Founder & Software Engineer**, [PT Yocatetin Data Inteligensia](https://yocatetin.com) -- Indonesia
 
 Feb 2026 – present
 
-- Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js, successfully launching 2 live products capable of zero-touch data processing.
+- Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js, successfully launching 3 live products capable of zero-touch data processing.
 
 - Engineered an auto-scaling cloud infrastructure on GCP and AWS, guaranteeing continuous system availability and optimal resource allocation without manual intervention.
 
@@ -97,7 +97,7 @@ July 2019 – Sept 2019
 
 
 
-## **Network Engineer | Praktek Kerja Lapangan (PKL)**, Eastkal Supply Base -- Penajam
+## **Network Engineer | Praktek Kerja Lapangan (PKL)**, PT Eastkal Supply Base -- Penajam
 
 Jan 2016 – Apr 2016
 
@@ -164,23 +164,17 @@ Jan 2016 – Apr 2016
 # Competition
 ## ****
 
-Sept 2020
-
 [The National Polytechnic Informatics Student Competition held at Politeknik Caltex Riau](https://drive.google.com/file/d/1ADMLE4IbO94aE8qxg9Aukn4p-GfEgHzI/view?usp=sharing).
 
 
 
 ## ****
 
-Dec 2019
-
 [Bali Startup Camp Held at STMIK Primakara Denpasar](https://drive.google.com/file/d/1_LdeSPpE7jImclgiiZ223OvDfdxkD5ZY/view?usp=sharing).
 
 
 
 ## ****
-
-Aug 2019
 
 [Samarinda Hackathon 2.0](https://drive.google.com/file/d/1ua-puPGgVTMAYEWRKTyO9RoAPtpNwA7O/view?usp=sharing).
 
