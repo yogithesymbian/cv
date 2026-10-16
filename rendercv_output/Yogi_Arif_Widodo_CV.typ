@@ -122,7 +122,7 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
 #regular-entry(
   [
-    #strong[Server Infrastructure Administrator (Retainer)], #link("https://salpalaran.com")[PT Sarana Abadi Lestari (SAL)] -- Indonesia
+    #strong[Infrastructure Administrator], #link("https://salpalaran.com")[PT Sarana Abadi Lestari (SAL)] -- Indonesia
 
   ],
   [

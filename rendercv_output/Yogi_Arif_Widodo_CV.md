@@ -19,7 +19,7 @@ July 2026 – present
 
 
 
-## **Server Infrastructure Administrator (Retainer)**, [PT Sarana Abadi Lestari (SAL)](https://salpalaran.com) -- Indonesia
+## **Infrastructure Administrator**, [PT Sarana Abadi Lestari (SAL)](https://salpalaran.com) -- Indonesia
 
 Nov 2025 – present
 

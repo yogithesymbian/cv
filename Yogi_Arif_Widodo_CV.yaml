@@ -20,7 +20,7 @@ cv:
         YO_STACK: "*Tech Stack:* PHP Yii, PostgreSQL, Node.js"
 
       - company: "[PT Sarana Abadi Lestari (SAL)](https://salpalaran.com)"
-        position: Server Infrastructure Administrator (Retainer)
+        position: Infrastructure Administrator
         start_date: 2025-11
         end_date: present
         location: Indonesia
