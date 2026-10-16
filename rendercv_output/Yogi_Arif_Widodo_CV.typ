@@ -1,12 +1,14 @@
 // Import the rendercv function and all the refactored components
-#import "@preview/rendercv:0.1.0": *
+#import "@preview/rendercv:0.3.0": *
 
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Yogi Arif Widodo",
+  title: "Yogi Arif Widodo - CV",
   footer: context { [#emph[Yogi Arif Widodo -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Mar 2026] ],
+  top-note: [ #emph[Last updated in Oct 2026] ],
   locale-catalog-language: "en",
+  text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.7in,
   page-bottom-margin: 0.7in,
@@ -67,6 +69,7 @@
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
   entries-short-second-row: false,
+  entries-degree-width: 1cm,
   entries-summary-space-left: 0cm,
   entries-summary-space-above: 0.08cm,
   entries-highlights-bullet:  text(13pt, [•], baseline: -0.6pt) ,
@@ -77,68 +80,66 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 3,
-    day: 11,
+    month: 10,
+    day: 16,
   ),
 )
 
 
 = Yogi Arif Widodo
 
+  #headline([Software Engineer])
+
 #connections(
-  [Samarinda, Indonesia],
-  [#link("mailto:yogi@yogiveloper.com", icon: false, if-underline: false, if-color: false)[yogi\@yogiveloper.com]],
+  [Balikpapan Tengah, Indonesia],
+  [#link("mailto:yogirenbox33@gmail.com", icon: false, if-underline: false, if-color: false)[yogirenbox33\@gmail.com]],
   [#link("tel:+62-815-4577-8612", icon: false, if-underline: false, if-color: false)[0815-4577-8612]],
-  [#link("https://github.com/yogithesymbian", icon: false, if-underline: false, if-color: false)[github.com\/yogithesymbian]],
+  [#link("https://yogithesymbian.github.io/", icon: false, if-underline: false, if-color: false)[yogithesymbian.github.io]],
   [#link("https://linkedin.com/in/yogi-arif-widodo", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/yogi-arif-widodo]],
 )
 
 
 == Summary
 
-Software Engineer with 9+ years of experience architecting systems and driving digital transformation. Demonstrated success in migrating 200+ enterprise clients to a 100\% paperless maritime ecosystem, achieving 24\/7 uptime and a perfect 100\% project acceptance rate. Scaled cross-functional engineering teams from 2 to 11 members and modernized a 20-year-old legacy system, drastically reducing query response times from 15 minutes to seconds. Currently engineering an autonomous Multi-LLM AI platform aimed at eliminating manual operational workflows.
+Software Engineer with 9+ years of experience architecting systems and driving digital transformation.
 
 == Experience
 
 #regular-entry(
   [
-    #strong[Founder & Software Engineer], #link("https://yocatetin.com")[PT Yocatetin Data Inteligensia] -- Indonesia
+    #strong[IT Programmer], #link("https://restuibu.co.id")[PT Restu Ibu Hospital] -- Indonesia
 
   ],
   [
-    Feb 2026 – present
+    July 2026 – present
 
   ],
   main-column-second-row: [
-    - Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js, successfully launching 3 live products capable of zero-touch data processing.
-
-    - Engineered an auto-scaling cloud infrastructure on GCP and AWS, guaranteeing continuous system availability and optimal resource allocation without manual intervention.
-
-    - Established robust testing pipelines using Playwright and Jest to maintain high reliability across continuous deployment cycles.
+    #emph[Tech Stack:] PHP Yii, PostgreSQL, Node.js
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Frontend Developer (Contract)], Samatech -- Surabaya
+    #strong[Server Infrastructure Administrator (Retainer)], #link("https://salpalaran.com")[PT Sarana Abadi Lestari (SAL)] -- Indonesia
 
   ],
   [
-    Nov 2023 – Aug 2025
+    Nov 2025 – present
 
   ],
   main-column-second-row: [
-    - Resolved critical bugs and maintained internal enterprise applications, ensuring high system reliability and smooth daily operations across the company.
+    - Manage server subscription renewals and billing continuity to keep essential infrastructure active.
 
-    - Engineered a custom logistics management system using Next.js, digitizing manual workflows and significantly increasing operational efficiency for a key client.
+    #emph[Infrastructure:] Vultr, AWS
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Senior Full-Stack & Server Engineer], #link("https://salpalaran.com")[PT Sarana Abadi Lestari (SAL)] -- Indonesia
+    #strong[Full-Stack & Server Engineer], #link("https://salpalaran.com")[PT Sarana Abadi Lestari (SAL)] -- Indonesia
 
   ],
   [
@@ -146,15 +147,68 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
   ],
   main-column-second-row: [
-    #summary[Architected, deployed, and managed both application architecture and server infrastructure for a 100\% paperless maritime Port Business Entity (BUP) ecosystem.]
+    - Spearheaded the digitalization of complex maritime workflows by partnering with enterprise tenants, including PT Pertamina Patra Niaga, PT Triputra Energi Megatara, PT Palaran Indah Lestari, and Schlumberger, achieving a 100\% project acceptance rate across all integrations.
 
-    - Spearheaded the digitalization of complex maritime workflows by partnering with enterprise tenants (e.g., PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), Schlumberger), achieving a 100\% project acceptance rate across all integrations.
+    #emph[Tech Stack:] Node.js, MySQL, Firebase, Rust Egui, Vue 2, Next.js, Arduino Uno R3, Vultr, AWS
 
-    - Led the end-to-end development of 3 critical real-time monitoring platforms (Vehicle Land Route, River Route, Secure Digital Pass), directly securing 17+ new growth contracts through strategic roadmapping.
+  ],
+)
 
-    - Architected a fault-tolerant VPS and cloud infrastructure using PM2, BullMQ, and Sentry, achieving strict 24\/7 system uptime and zero data loss for jetty maritime operations.
+#regular-entry(
+  [
+    #strong[Founder & Software Engineer], #link("https://yocatetin.com")[PT Yocatetin Data Inteligensia] -- Indonesia
 
-    #emph[Tech Stack:] Node.js, MySQL, Firebase, Rust Egui, Vue 2, Next.Js, Arduiono Uno R3, Vultr, AWS
+  ],
+  [
+    Feb 2026 – May 2026
+
+  ],
+  main-column-second-row: [
+    - Architected and deployed an autonomous Multi-LLM AI API platform using Rust and Next.js.
+
+    - Engineered an auto-scaling cloud infrastructure on GCP and AWS, guaranteeing continuous system availability and optimal resource allocation without manual intervention.
+
+    - Using Playwright and Jest to maintain high reliability across continuous deployment cycles.
+
+    #emph[Tech Stack:] Node.JS, Next.js, Rust, Supabase, PostgreSQL, Redis, GCP & AWS, Playwright, Jest
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Software Developer], Samatech -- Surabaya
+
+  ],
+  [
+    Nov 2023 – Aug 2025
+
+  ],
+  main-column-second-row: [
+    #emph[Tech Stack:] Next.js, React, Ant Design, MySQL, Firebase
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Co-Founder], PT INDEKS MEDIA TEKNOLOGI -- Samarinda
+
+  ],
+  [
+    Dec 2020 – May 2022
+
+  ],
+  main-column-second-row: [
+    #summary[Chief Technology Officer | Head of Mobile Development | Co-founded tech startup;]
+
+    - Modernized a 20-year-old legacy Japanese desktop application into a scalable web platform using Vue.js and Laravel, translating 200+ Figma designs into functional modules.
+
+    - Scaled a cross-functional engineering team from 2 to 11 members.
+
+    - Delivered international projects: Australian Payment Gateway (Auspost) integration and a Polish Gallery platform.
+
+    #emph[Tech Stack:] Laravue, MySQL, Oracle 12c, Element UI, Vue 2, Flutter, Lumen API, Vultr
 
   ],
 )
@@ -173,39 +227,16 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
     - Developed a cross-platform leave attendance application for international firms using Flutter and Riverpod, implementing Domain-Driven Design (DDD) to ensure code scalability.
 
-    - Revitalized a legacy pesticide information app by enhancing UI\/UX with Flutter GetX, significantly improving user retention and accessibility.
+    - Utilizing AI coding assistants to accelerate feature delivery and reduce development cycles.
 
-    - Built and deployed dynamic HR applications, utilizing AI coding assistants to accelerate feature delivery and reduce development cycles.
-
-    - Expanded global client base by securing two international SDK consultancy contracts with Indian clients-sourced organically via GitHub and competitively through Upwork-delivering robust architectural solutions.
+    #emph[Tech Stack:] Kotlin, Lumen API, Laravel, Flutter, React.Js, Ant Design, Firebase
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Co-Founder (Full-Time)], PT INDEKS MEDIA TEKNOLOGI -- Samarinda
-
-  ],
-  [
-    Dec 2020 – May 2022
-
-  ],
-  main-column-second-row: [
-    - Modernized a 20-year-old legacy Japanese desktop application into a scalable web platform using Vue.js and Laravel, translating 200+ Figma designs into functional modules.
-
-    - Slashed database query response times from 15 minutes to under 5 seconds by optimizing complex queries across MySQL and Oracle 12c databases featuring Japanese localization.
-
-    - Scaled a cross-functional engineering team from 2 to 11 members, seamlessly integrating multilingual support by collaborating with certified translators.
-
-    - Delivered high-profile international projects, including an Australian Payment Gateway (Auspost) integration and a Polish Gallery platform.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Instructor Junior Mobile Programmer], Digital Talent Scholarship -- POLNES
+    #strong[Instructor | Undergraduate Experience], Digital Talent Scholarship -- POLNES
 
   ],
   [
@@ -213,16 +244,14 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
   ],
   main-column-second-row: [
-    - Mentored vocational (SMK) and university students in native Android development, improving their foundational algorithm knowledge through hands-on Kotlin instruction.
-
-    - #link("https://drive.google.com/file/d/1ijX1gduRNISE3mWYtqXXbi5M1Yd0xnDa/view?usp=sharing")[Led the final project evaluation phase, enabling students to successfully earn their programming certifications.]
+    #emph[Tech Stack:] Kotlin
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Android Developer | Kuliah Kerja Praktek (KKP)], CV. PAULFEN MANDIRI -- Samarinda
+    #strong[Android Developer | Undergraduate Experience], CV. PAULFEN MANDIRI -- Samarinda
 
   ],
   [
@@ -230,14 +259,14 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
   ],
   main-column-second-row: [
-    - Developed and launched (internal) a native Android e-commerce application for groceries using Java and Kotlin, establishing a seamless single-codebase architecture.
+    #emph[Tech Stack:] Java, Kotlin
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Network Engineer | Praktek Kerja Lapangan (PKL)], PT Eastkal Supply Base -- Penajam
+    #strong[Network Engineer | Undergraduate Experience], PT Eastkal Supply Base -- Penajam
 
   ],
   [
@@ -249,16 +278,14 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
     - #link("https://drive.google.com/file/d/1Z9au80tYYx7Rb9GnVYdr1Gm9wIzOgWCh/view?usp=sharing")[Deployed and secured Jetty CCTV systems across the Marine Tower and RIG Area, enhancing perimeter security monitoring.]
 
+    #emph[Tech Stack:] Ubiquiti, MikroTik, and Cisco
+
   ],
 )
 
 == Skills
 
 #strong[Languages:] English (Intermediate), Indonesian (Proficient), Japanese (Beginner).
-
-#strong[Frontend & Mobile:] Android Native (Jetpack Compose) Kotlin, Java, Flutter (Riverpod, BLoC, GetX), Vue.js, React, Next.js, Rust Egui, SSR, SSG, Contentful.
-
-#strong[Backend & Architecture:] Microservices, MySQL, Oracle 12c, GraphQL, Node.js, PM2, Sentry, Laravel, Redis, BullMQ, Clean Architecture, Domain-Driven Design (DDD), Software Design.
 
 #strong[Cloud, DevOps & Tools:] Cloud Infrastructure (AWS, GCP, VULTR, Cloudflare), VPS, Docker, Firebase, CI\/CD (GitHub Actions, GitLab), Jira, Agile\/Scrum.
 
@@ -382,7 +409,7 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
 #education-entry(
   [
-    #strong[Politeknik Negeri Samarinda],  -- Samarinda, Indonesia
+    #strong[Politeknik Negeri Samarinda], A.Md.Kom in Informatics Engineering -- Samarinda, Indonesia
 
   ],
   [
@@ -403,7 +430,7 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
 #education-entry(
   [
-    #strong[SMK Negeri 2 Penajam Paser Utara]
+    #strong[SMK Negeri 2 Penajam Paser Utara], Computer and Network Engineering
 
   ],
   [

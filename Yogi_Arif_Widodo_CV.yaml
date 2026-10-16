@@ -20,13 +20,22 @@ cv:
         YO_STACK: "*Tech Stack:* PHP Yii, PostgreSQL, Node.js"
 
       - company: "[PT Sarana Abadi Lestari (SAL)](https://salpalaran.com)"
-        position: Server Engineer & Full-Stack Developer
-        start_date: 2022-07
+        position: Server Infrastructure Administrator (Retainer)
+        start_date: 2025-11
         end_date: present
         location: Indonesia
-        YO_STACK: "*Tech Stack:* Node.js, MySQL, Firebase, Rust Egui, Vue 2, Next.Js, Arduiono Uno R3, Vultr, AWS"
+        YO_STACK: "*Infrastructure:* Vultr, AWS"
         highlights:
-          - "Spearheaded the digitalization of complex maritime workflows by partnering with enterprise tenants (e.g., PT Pertamina Patra Niaga (PATRA), PT Triputra Energi Megatara (TEM), PT Palaran Indah Lestari (PIL), Schlumberger), achieving a 100% project acceptance rate across all integrations."
+          - "Manage server subscription renewals and billing continuity to keep essential infrastructure active."
+
+      - company: "[PT Sarana Abadi Lestari (SAL)](https://salpalaran.com)"
+        position: Full-Stack & Server Engineer
+        start_date: 2022-07
+        end_date: 2025-10
+        location: Indonesia
+        YO_STACK: "*Tech Stack:* Node.js, MySQL, Firebase, Rust Egui, Vue 2, Next.js, Arduino Uno R3, Vultr, AWS"
+        highlights:
+          - "Spearheaded the digitalization of complex maritime workflows by partnering with enterprise tenants, including PT Pertamina Patra Niaga, PT Triputra Energi Megatara, PT Palaran Indah Lestari, and Schlumberger, achieving a 100% project acceptance rate across all integrations."
 
       - company: "[PT Yocatetin Data Inteligensia](https://yocatetin.com)"
         position: Founder & Software Engineer
@@ -283,11 +292,11 @@ settings:
   render_command:
     design:
     locale:
-    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
-    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
-    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
-    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
-    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
     dont_generate_markdown: false
     dont_generate_html: false
     dont_generate_typst: false
