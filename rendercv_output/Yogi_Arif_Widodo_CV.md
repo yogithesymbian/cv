@@ -3,7 +3,7 @@
 - Phone: +62 815 4577 8612
 - Email: [yogirenbox33@gmail.com](mailto:yogirenbox33@gmail.com)
 - Location: Balikpapan Tengah, Indonesia
-- Website: [yogithesymbian.github.io](https://yogithesymbian.github.io/)
+- Website: [yogiarifwidodo.my.id](https://yogiarifwidodo.my.id/)
 - LinkedIn: [yogi-arif-widodo](https://linkedin.com/in/yogi-arif-widodo)
 
 

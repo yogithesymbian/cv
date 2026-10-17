@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 10,
-    day: 16,
+    day: 18,
   ),
 )
 
@@ -94,7 +94,7 @@
   [Balikpapan Tengah, Indonesia],
   [#link("mailto:yogirenbox33@gmail.com", icon: false, if-underline: false, if-color: false)[yogirenbox33\@gmail.com]],
   [#link("tel:+62-815-4577-8612", icon: false, if-underline: false, if-color: false)[0815-4577-8612]],
-  [#link("https://yogithesymbian.github.io/", icon: false, if-underline: false, if-color: false)[yogithesymbian.github.io]],
+  [#link("https://yogiarifwidodo.my.id/", icon: false, if-underline: false, if-color: false)[yogiarifwidodo.my.id]],
   [#link("https://linkedin.com/in/yogi-arif-widodo", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/yogi-arif-widodo]],
 )
 
