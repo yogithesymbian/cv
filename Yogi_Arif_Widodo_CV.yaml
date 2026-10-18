@@ -21,7 +21,7 @@ cv:
 
       - company: "[PT Sarana Abadi Lestari (SAL)](https://salpalaran.com)"
         position: Infrastructure Administrator
-        start_date: 2025-11
+        start_date: 2022-07
         end_date: present
         location: Indonesia
         YO_STACK: "*Infrastructure:* Vultr, AWS"
