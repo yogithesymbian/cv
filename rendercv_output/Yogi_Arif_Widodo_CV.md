@@ -21,7 +21,7 @@ July 2026 – present
 
 ## **Infrastructure Administrator**, [PT Sarana Abadi Lestari (SAL)](https://salpalaran.com) -- Indonesia
 
-Nov 2025 – present
+July 2022 – present
 
 - Manage server subscription renewals and billing continuity to keep essential infrastructure active.
 

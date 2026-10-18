@@ -126,7 +126,7 @@ Software Engineer with 9+ years of experience architecting systems and driving d
 
   ],
   [
-    Nov 2025 – present
+    July 2022 – present
 
   ],
   main-column-second-row: [
