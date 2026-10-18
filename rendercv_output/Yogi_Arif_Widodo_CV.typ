@@ -86,6 +86,13 @@
 )
 
 
+#grid(
+  columns: (auto, 1fr),
+  column-gutter: 0cm,
+  align: horizon + left,
+  [#pad(left: 0.4cm, right: 0.4cm, image("profile-yogiarifwidodo-rounded-12.png", width: 3.5cm))
+],
+  [
 = Yogi Arif Widodo
 
   #headline([Software Engineer])
@@ -96,6 +103,8 @@
   [#link("tel:+62-815-4577-8612", icon: false, if-underline: false, if-color: false)[0815-4577-8612]],
   [#link("https://yogiarifwidodo.my.id/", icon: false, if-underline: false, if-color: false)[yogiarifwidodo.my.id]],
   [#link("https://linkedin.com/in/yogi-arif-widodo", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/yogi-arif-widodo]],
+)
+  ]
 )
 
 
